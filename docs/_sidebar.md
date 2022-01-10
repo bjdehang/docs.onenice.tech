@@ -19,6 +19,9 @@
   - [Hello, OneTodo](OneTodo/intro.md)
   - [Privacy Policy](OneTodo/privacy.md)
   - [Terms of Use](OneTodo/terms.md)
+- OneWall
+  - [Privacy Policy](OneWall/privacy.md)
+  - [Terms of Use](OneWall/terms.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
