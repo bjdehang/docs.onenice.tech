@@ -1,6 +1,6 @@
 Although all the clauses contained in this agreement are standard clauses about software products, it is advised that you read them entirely.
 
-This End-User License Agreement ("EULA") constitutes an agreement between you and OneWall (herein referred to as the "Owner") with regard to the OneWall application for Mobile Phones (herein referred to as "Software Product" or "Software"). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
+This End-User License Agreement ("EULA") constitutes an agreement between you and OneGrow (herein referred to as the "Owner") with regard to the OneGrow application for Mobile Phones (herein referred to as "Software Product" or "Software"). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
 
 Your use of the Software (as specified below) is subject to the terms and conditions set forth in this EULA. If you do not accept the terms of this EULA, do not install or use the Software.
 
@@ -8,7 +8,7 @@ Your use of the Software (as specified below) is subject to the terms and condit
 
 2. RESTRICTIONS OF USE. Unless the Owner has authorized you to distribute the Software, you shall not make or distribute copies of the Software or transfer the Software from one device to another. You shall not decompile, reverse engineer, disassemble, include in other software, or translate the Software, or use the Software for any commercial purposes. You shall not modify, alter, change or otherwise make any modification to the Software or create derivative works based upon the Software. You shall not rent, lease, resell, sub-license, assign, distribute or otherwise transfer the Software or this license. Any attempt to do so shall be void and of no effect.
 
-3. COPYRIGHT. You acknowledge that no title to the intellectual property in the Software is transferred to you. You further acknowledge that title and full ownership rights to the Software will remain the exclusive property of OneWall, and you will not acquire any rights to the Software. You shall not remove or obscure the Owner's copyright, trademark or other proprietary notices from any of the materials contained in this package or downloaded together with the Software.
+3. COPYRIGHT. You acknowledge that no title to the intellectual property in the Software is transferred to you. You further acknowledge that title and full ownership rights to the Software will remain the exclusive property of OneGrow, and you will not acquire any rights to the Software. You shall not remove or obscure the Owner's copyright, trademark or other proprietary notices from any of the materials contained in this package or downloaded together with the Software.
 
 4. DISCLAIMER OF WARRANTY. The Software is provided "AS IS", without warranty of any kind. We disclaim and make no express or implied warranties and specifically disclaim the warranties of merchantability, fitness for a particular purpose and non-infringement of third-party rights. The entire risk as to the quality and performance of the Software is with you. We do not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be error-free.
 
