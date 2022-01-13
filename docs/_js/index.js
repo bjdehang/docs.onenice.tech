@@ -14,7 +14,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'ONEX KIT',
+  name: 'OneNice',
   search: {
     noData: {
       '/cn/': '没有结果',
@@ -28,13 +28,13 @@ window.$docsify = {
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/bjdehang/docs.onexkit.com', null, path => {
-      if (path.indexOf('cn/') === 0) {
-        return '在 GitHub 上编辑';
-      } else {
-        return 'Edit on GitHub';
-      }
-    }),
+    // EditOnGithubPlugin.create('https://github.com/bjdehang/docs.onexkit.com', null, path => {
+    //   if (path.indexOf('cn/') === 0) {
+    //     return '在 GitHub 上编辑';
+    //   } else {
+    //     return 'Edit on GitHub';
+    //   }
+    // }),
     (hook, vm) => {
       hook.beforeEach(async(content, next) => {
         const path = vm.route.path;
