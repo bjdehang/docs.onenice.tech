@@ -28,7 +28,7 @@
 - Transparent Widget
   - [你好，透明小组件](cn/TransparentWidget/intro.md)
   - [使用教程](cn/TransparentWidget/tutorial.md)
-  - [隐私协议]](cn/TransparentWidget/privacy.md)
+  - [隐私协议](cn/TransparentWidget/privacy.md)
   - [用户协议](cn/TransparentWidget/terms.md)
 - Hide Notch
   - [Privacy Policy](HideNotch/privacy.md)

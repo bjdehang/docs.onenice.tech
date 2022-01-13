@@ -1,2 +1,1 @@
-- [Release Notes](rn.md)
-- [**EN** / CN](cn/)
+- [EN](/) | [CN](/cn/)
