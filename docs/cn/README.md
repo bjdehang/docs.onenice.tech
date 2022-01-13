@@ -1,10 +1,10 @@
-# OneNice
+# OneNice - 好个科技
 
 This document provides instructions, tips and tricks for getting started with the [OneNice Tech](https://onenice.tech) app, as well as some reference examples.
 
 -->
-## Contact Us
+## 联系我们
 
-Feel free to reach us out:
+如有问题，欢迎您随时联系我们
 
-- Email: [hi@onenice.tech](mailto:hi@onenice.tech)
+- 邮件地址: [hi@onenice.tech](mailto:hi@onenice.tech)

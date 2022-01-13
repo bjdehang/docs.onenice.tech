@@ -1,35 +1,35 @@
-- Quick Start
+- 快速入门
   - [README](README.md)
 - OneDay
-  - [Privacy Policy](OneDay/privacy.md)
-  - [Terms of Use](OneDay/terms.md)
+  - [隐私协议](OneDay/privacy.md)
+  - [用户协议](OneDay/terms.md)
 - OneClock
-  - [Screensaver](OneClock/screensaver.md)
-- OneList
-  - [Privacy Policy](OneList/privacy.md)
-  - [Terms of Use](OneList/terms.md)
+  - [屏幕保护程序](OneClock/screensaver.md)
+- OneList - 极简清单
+  - [隐私协议](OneList/privacy.md)
+  - [用户协议](OneList/terms.md)
 - OneScreen
-  - [Privacy Policy](OneScreen/privacy.md)
-  - [Terms of Use](OneScreen/terms.md)
+  - [隐私协议](OneScreen/privacy.md)
+  - [用户协议](OneScreen/terms.md)
 - OneWidget
-  - [Transparent](OneWidget/transparent.md)
-  - [Privacy Policy](OneWidget/privacy.md)
-  - [Terms of Use](OneWidget/terms.md)
+  - [透明背景教程](OneWidget/transparent.md)
+  - [隐私协议](OneWidget/privacy.md)
+  - [用户协议](OneWidget/terms.md)
 - OneTodo
-  - [Hello, OneTodo](cn/OneTodo/intro.md)
-  - [Privacy Policy](OneTodo/privacy.md)
-  - [Terms of Use](OneTodo/terms.md)
+  - [你好, OneTodo](cn/OneTodo/intro.md)
+  - [隐私协议](OneTodo/privacy.md)
+  - [用户协议](OneTodo/terms.md)
 - OneWall
-  - [Privacy Policy](OneWall/privacy.md)
-  - [Terms of Use](OneWall/terms.md)
-- OneGrow
-  - [Privacy Policy](OneGrow/privacy.md)
-  - [Terms of Use](OneGrow/terms.md)
-- Transparent Widget
+  - [隐私协议](OneWall/privacy.md)
+  - [用户协议](OneWall/terms.md)
+- OneGrow - 慢慢长大
+  - [隐私协议](cn/OneGrow/privacy.md)
+  - [用户协议](cn/OneGrow/terms.md)
+- 透明小组件
   - [你好，透明小组件](cn/TransparentWidget/intro.md)
   - [使用教程](cn/TransparentWidget/tutorial.md)
   - [隐私协议](cn/TransparentWidget/privacy.md)
   - [用户协议](cn/TransparentWidget/terms.md)
-- Hide Notch
-  - [Privacy Policy](HideNotch/privacy.md)
-  - [Terms of Use](HideNotch/terms.md)
+- 隐藏刘海
+  - [隐私协议](cn/HideNotch/privacy.md)
+  - [用户协议](cn/HideNotch/terms.md)

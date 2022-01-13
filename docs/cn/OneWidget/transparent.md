@@ -1,35 +1,35 @@
-# 透明小组件使用教程
+# Tutorial
 
-- 关闭壁纸视觉缩放效果
+- Turn off Perspective Zoom
 
-<img src="../cn/OneWidget/transparent/01.png" width="360" />
+<img src="../OneWidget/transparent/01.png" width="360" />
 
-- 截图主屏幕首页（深色/浅色）
+- Screenshot The Home Screen
 
-<img src="../cn/OneWidget/transparent/02.png" width="360" />
+<img src="../OneWidget/transparent/02.png" width="360" />
 
-- 回到主应用上传屏幕截图
+- Upload Screenshots
 
-<img src="../cn/OneWidget/transparent/03.png" width="360" />
+<img src="../OneWidget/transparent/03.png" width="360" />
 
-- 回到主屏幕添加小组件
+- Back To The Home Screen
 
-<img src="../cn/OneWidget/transparent/04.png" width="360" />
+<img src="../OneWidget/transparent/04.png" width="360" />
 
-- 进入小组件编辑模式选择背景
+- To Edit Mode And Select Background
 
-<img src="../cn/OneWidget/transparent/05.png" width="360" />
+<img src="../OneWidget/transparent/05.png" width="360" />
 
-- 根据小组件的位置选择透明背景
+- Select a transparent background based on Position
 
-<img src="../cn/OneWidget/transparent/06.png" width="360" />
+<img src="../OneWidget/transparent/06.png" width="360" />
 
 
 
-如果有任何问题或者建议，欢迎联系我们:
+If you have any question or comment, you can contact us:
 
-邮箱: hi@onenice.tech
+Email: hi@onenice.tech
 
 Twitter:@onexdavis
 
-微博:陈大好Davis
+Weibo:陈大好Davis
