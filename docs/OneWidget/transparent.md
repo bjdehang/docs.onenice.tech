@@ -28,7 +28,7 @@
 
 If you have any question or comment, you can contact us:
 
-Email: hi@onexkit.com
+Email: hi@onenice.tech
 
 Twitter:@onexdavis
 
