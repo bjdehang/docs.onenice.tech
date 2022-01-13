@@ -1,8 +1,8 @@
 # OneNice - 好个科技
 
-This document provides instructions, tips and tricks for getting started with the [OneNice Tech](https://onenice.tech) app, as well as some reference examples.
+此文档库提供好个科技相关的引导和说明。
 
--->
+
 ## 联系我们
 
 如有问题，欢迎您随时联系我们
