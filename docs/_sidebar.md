@@ -22,6 +22,9 @@
 - OneWall
   - [Privacy Policy](OneWall/privacy.md)
   - [Terms of Use](OneWall/terms.md)
+- OneGrow
+  - [Privacy Policy](OneGrow/privacy.md)
+  - [Terms of Use](OneGrow/terms.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
