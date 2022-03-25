@@ -1,30 +1,30 @@
 - 快速入门
   - [README](README.md)
 - OneDay
-  - [隐私协议](OneDay/privacy.md)
-  - [用户协议](OneDay/terms.md)
+  - [隐私协议](cn/OneDay/privacy.md)
+  - [用户协议](cn/OneDay/terms.md)
 - OneClock
-  - [屏幕保护程序](OneClock/screensaver.md)
+  - [屏幕保护程序](cn/OneClock/screensaver.md)
 - OneList - 极简清单
-  - [隐私协议](OneList/privacy.md)
-  - [用户协议](OneList/terms.md)
+  - [隐私协议](cn/OneList/privacy.md)
+  - [用户协议](cn/OneList/terms.md)
 - OneScreen
-  - [隐私协议](OneScreen/privacy.md)
-  - [用户协议](OneScreen/terms.md)
+  - [隐私协议](cn/OneScreen/privacy.md)
+  - [用户协议](cn/OneScreen/terms.md)
 - OneWidget
-  - [透明背景教程](OneWidget/transparent.md)
-  - [隐私协议](OneWidget/privacy.md)
-  - [用户协议](OneWidget/terms.md)
+  - [透明背景教程](cn/OneWidget/transparent.md)
+  - [隐私协议](cn/OneWidget/privacy.md)
+  - [用户协议](cn/OneWidget/terms.md)
   - [主题问题](cn/OneWidget/theme.md)
   - [小组件问题](cn/OneWidget/widget.md)
   - [其他问题](cn/OneWidget/others.md)
 - OneTodo
   - [你好, OneTodo](cn/OneTodo/intro.md)
-  - [隐私协议](OneTodo/privacy.md)
-  - [用户协议](OneTodo/terms.md)
+  - [隐私协议](cn/OneTodo/privacy.md)
+  - [用户协议](cn/OneTodo/terms.md)
 - OneWall
-  - [隐私协议](OneWall/privacy.md)
-  - [用户协议](OneWall/terms.md)
+  - [隐私协议](cn/OneWall/privacy.md)
+  - [用户协议](cn/OneWall/terms.md)
 - OneGrow - 慢慢长大
   - [隐私协议](cn/OneGrow/privacy.md)
   - [用户协议](cn/OneGrow/terms.md)
