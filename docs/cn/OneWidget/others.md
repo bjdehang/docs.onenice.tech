@@ -9,7 +9,7 @@
 
 <img src="../cn/OneWidget/img/03.png" width="360" />
 
-### 2."这里找不到我想问的！" 或"我有话要对 Onewidget 说！"
+### 2."这里找不到我想问的！" 或"我有话要对 OneWidget 说！"
 我们提供多种联系渠道，请点击“联系我们”随时与我们联系！ 我们会尽最大努力尽快为您提供帮助。
 
 <img src="../cn/OneWidget/img/04.png" width="360" />
