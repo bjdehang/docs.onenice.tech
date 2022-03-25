@@ -1,34 +1,35 @@
+# Widget
 
-### 1.手机桌面找不到添加组件的按钮
-小组件目前只支持iOS14及以上的版本，请确认并将您的手机系统升级到iOS14及以上版本。 若已经是iOS14及以上版本，先在小组件列表中搜索OneWidget，如果没有找到，可以尝试重启手机，打开App添加一个小组件，然后再尝试去桌面查找。
+### 1. The button to add the widget cannot be found on the desktop of the phone
+The widget currently only supports iOS14 and above, please confirm and upgrade your phone system to iOS14 and above. If you are already on iOS14 and above, search for OneWidget in the widget list first, if you don't find it, try restarting your phone, opening the app to add a widget, and then try to find it on your desktop again.
 
-### 2.如何在iPad桌面显示小组件？
-目前iPad小组件iOS14系统只支持在today页中显示。滑至主屏幕的第一页，然后从屏幕最左侧向右滑动显示today视图后可查看小组件。 
-iOS15以上系统支持在桌面添加小组件，添加流程和iPhone类似。
+### 2. How to display widgets on iPad desktop?
+Currently, iPad widget iOS14 only supports displaying in today page. Slide to the first page of the home screen, and then slide from the leftmost side of the screen to the right to show the today view to view the widget. iOS15 and above support adding widgets on desktop, the process of adding is similar to iPhone.
 
-### 3.桌面小组件卡住不更新、白屏、黑屏或出错怎么办？
-当手机内存有问题时，经常会出现这种现象。此外，也会因为苹果系统刷新机制的问题，出现小组件不更新或出错的情况。这时，您可以点击进入App，我们会强制刷新；如果还是无效，需要您重新添加小组件或者重启手机后再重新添加小组件。
+### 3. What should I do if the desktop widget is stuck without updating, white screen, black screen or error?
+This phenomenon often occurs when there is a problem with the phone's memory. In addition, it may also happen that the widget is not updated or error occurs because of the refresh mechanism of Apple system. In this case, you can click into the app and we will force to refresh it; if it is still invalid, you need to add the widget again or restart the phone and then add the widget again.
 
-### 4.能不能去掉小组件下面的OneWidget文字？
-OneWidget是App的名称，苹果商店在审核时要求我们App带上名字，所以桌面OneWidget的文字目前无法去掉，也不支持自定义。如果后续苹果有支持相关设置，我们会第一时间更新。
+### 4. Can I remove the text of OneWidget under the widget?
+OneWidget is the name of the app, and Apple Store requires our app to bring the name when reviewing, so the text of desktop OneWidget cannot be removed at present, and customization is not supported. If Apple supports related settings in the future, we will update it as soon as possible.
 
-### 5.为什么时间小组件显示不准确？
-由于苹果系统更新机制对小组件刷新限制，时钟数据有概率存在一定时间的延迟。您可以点击时钟小组件，重启APP即可正常使用。
+### 5. Why is the time widget not displayed accurately?
+Due to Apple's system update mechanism, the clock data may be delayed for a certain period of time. You can click the clock widget and restart the app to use it normally.
 
-### 6.为什么选择相册中的照片时没有照片？
-打开【设置】，搜索OneWidget，修改照片权限修改为所有照片即可。
+### 6. Why there is no photo when I select photos in the album?
+Open [Settings], search OneWidget, change the photo permission to all photos.
 
-### 7.通过快捷启动小组件二次跳转怎么办？
-由于苹果系统限制，暂时没有直接打开第三方应用的方式，因此只能通过跳转打开第三方应用，若后续有更便捷的快捷方式我们会及时更新。
+### 7. What about the second jump through the Quick Launch widget?
+Due to Apple's system limitations, there is no direct way to open third-party applications for the time being, so you can only open third-party applications by jumping, if there is a more convenient shortcut we will update it in time.
 
-### 8.透明背景错位了怎么办？
-截屏之前，进入【设置】→【墙纸】→选择主屏幕预览→关闭视角缩放→点击设定，然后再重新截图上传。
+### 8. What should I do if the transparent background is misplaced?
+Before taking a screenshot, go to [Settings] → [Wallpaper] → select home screen preview → turn off view zoom → click Settings, then take a screenshot again and upload it.
 
-### 9.提示截图尺寸错误，怎么办？
-进入【设置】，找到【显示与亮度】→【视图】→设定为标准，然后再重新截图上传。
+### 9. What should I do if the screenshot size is wrong?
+Go to [Settings], find [Display & Brightness] → [View] → set it to standard, then take a new screenshot and upload it.
 
-### 10.iPad是否支持透明设置？
-考虑到屏幕旋转问题，目前iPad暂时不支持透明组件设置；后续如果有更好的方案，我们会第一时间更新。
+### 10. Does iPad support transparency setting?
+Considering the screen rotation problem, iPad does not support transparent widget setting for the time being; we will update it as soon as there is a better solution in the future.
 
-### 11.如何移除小组件
-桌面长按要移除的小组件，点击“移除小组件”，确认“移除”。
+### 11. How to remove the widget？
+Long press the widget you want to remove, click "Remove widget", and confirm "Remove".
+

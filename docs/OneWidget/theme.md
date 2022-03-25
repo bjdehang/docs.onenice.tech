@@ -1,20 +1,22 @@
-### 1.安装新图标后如何隐藏原来的图标？
-回到桌面并长按主屏幕→点击底部的小点点，把需要隐藏的页面取消勾选→点击完成-设置完成。
+# Theme
 
-### 2.为什么删除自定义图标后找不到原有APP了？
-APP并没有被删除，只是删除了自定义图标，原有APP被隐藏到了 APP资源库中。可以在手机主屏幕左滑至APP资源库 找到APP 长按移动到桌面即可恢复。
+### 1. How to hide the original icon after installing the new one?
+Go back to desktop and long press the home screen → click the small dot at the bottom and uncheck the page you want to hide - click Finish - the setting is finished.
 
-### 3.如何批量删除新图标？
-进入【设置】通用→搜索【VPN与设备管理】→点击相关主题，移除描述文件即可。
+### 2. Why can't I find the original APP after deleting the custom icons?
+The APP is not deleted, only the custom icon is deleted, and the original APP is hidden in the APP library. You can swipe left on the home screen of your phone to the APP library and find the APP.
 
-### 4.更改后的图标怎么没有新消息提醒？
-更改图标相当于增加快捷方式，所以现阶段我们没有权限获得您的新消息通知并提醒您。
+### 3. How to delete new icons in batch?
+Go to [Settings] General → Search [VPN & Device Management] → Click the relevant topic and remove the description file.
 
-### 5.如何快速在主屏幕上打开带有自定义图标的App？
-进入【设置】→向下滚动找到【辅助功能】→单击【动态效果】→打开【减弱动态效果】，可以减少二次跳转的时间，呈现快速打开App的效果！
+### 4. How come there is no new message alert after I changed the icon?
+Changing the icon is equivalent to adding a shortcut, so at this stage we do not have permission to get your new message notification and alert you.
 
-### 6.无法下载描述文件，点击按钮无反应？
-打开【设置】→找到【Safari浏览器】→滑动至底部点击【高级】→打开【JavaScript】→返回OneWidget APP →点击右上角的刷新按钮  →  再次点击“下载描述文件”→即可正常下载了。
+### 5. How to quickly open the app with custom icons on the home screen?
+Go to [Settings] → scroll down to find [Accessibility] → click [Dynamic Effect] → open [Diminish Dynamic Effect], which can reduce the time of second jump and present the effect of opening the app quickly!
 
-### 7.锁屏倒计时及自动换壁纸如何关闭？
-进入快捷指令APP→自动化→找到相应指令并左滑删除。
+### 6. Can't download the description file, click the button without response?
+Open [Settings] → find [Safari] → slide to the bottom and click [Advanced] → open [JavaScript] → return to OneWidget APP → click the refresh button in the upper right corner → click "Download description file" again → it can be downloaded normally.
+
+### 7. How to turn off the lock screen countdown and automatic wallpaper change?
+Go to Quick Command App → Automation → Find the corresponding command and left slide to delete it.

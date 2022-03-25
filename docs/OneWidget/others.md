@@ -1,29 +1,15 @@
-# 其他
+# Others
+### 1. I don't know how to start using OneWidget?
+Thank you for using OneWidget in many applications. You can watch a full video tutorial in the Help Center or click "?" in the upper right corner of the Themes and Widgets pages to expand the specific tutorial. 
 
-### 1.我不知道如何开始使用OneWidget？
-感谢您在众多应用中使用 OneWidget，你可以在帮助中心里观看完整的视频教程，也可以在“主题”和“小组件”页面的右上角点击“？”展开具体的教程。
+### 2. "I can't find what I want to ask here!" or "I have something to say to OneWidget!"
+We offer several channels of contact, so please feel free to contact us by clicking on "Contact Us"! We'll do our best to help you as soon as possible 😉.
 
-<img src="../OneWidget/img/01.png" width="360" />
+### 3. Why are you not a VIP after paying?
+Please check whether the payment has been successfully deducted first. If the payment has been successfully deducted, but you are not a member yet, you can enter from the VIP membership page and click the [Resume Purchase] button to resume your membership.
 
-<img src="../OneWidget/img/02.png" width="360" />
+### 4. Why did the purchase of membership fail?
+Network delay causes the problem, if the payment has been successfully deducted, you can click the Resume Purchase button; if the unlocked premium version has not been shown after 24 hours after the payment has been deducted and cannot be resumed, please go to AppStore to refund or cancel the subscription in time.
 
-<img src="../OneWidget/img/03.png" width="360" />
-
-### 2."这里找不到我想问的！" 或"我有话要对 OneWidget 说！"
-我们提供多种联系渠道，请点击“联系我们”随时与我们联系！ 我们会尽最大努力尽快为您提供帮助。
-
-<img src="../OneWidget/img/04.png" width="360" />
-
-<img src="../OneWidget/img/05.png" width="360" />
-
-### 3.为什么付费后还不是VIP？
-请先查看是否扣款成功，如果已经扣款成功，但还不是会员，可以从VIP会员页进入，点击【恢复购买】按钮，恢复会员。
-
-### 4.为什么购买会员失败？
-网络延迟导致该问题出现，如已成功扣款可以点击恢复购买按钮；如扣款后24小时后还未显示解锁高级版并不能恢复购买，请及时去AppStore退款或取消订阅。
-
-### 5.购买高级版后，换手机需要再次购买吗？
-新手机使用的苹果ID和之前购买高级版使用的苹果ID是同一ID，就可以通过点击恢复购买，解锁高级版。
-
-### 6.为什么打开APP是英文版的？
-打开【设置】，搜索OneWidget，设置【首选语言】，修改为简体中文即可。
+### 5. Do I need to buy the premium version again if I change my phone after purchasing it?
+If the Apple ID used in the new phone is the same as the Apple ID used in the previous purchase of the premium version, you can unlock the premium version by clicking Restore.
