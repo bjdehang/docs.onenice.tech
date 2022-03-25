@@ -15,6 +15,9 @@
   - [Transparent](OneWidget/transparent.md)
   - [Privacy Policy](OneWidget/privacy.md)
   - [Terms of Use](OneWidget/terms.md)
+  - [Theme](cn/OneWidget/theme.md)
+  - [Widget](cn/OneWidget/widget.md)
+  - [Others](cn/OneWidget/others.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
   - [Privacy Policy](OneTodo/privacy.md)

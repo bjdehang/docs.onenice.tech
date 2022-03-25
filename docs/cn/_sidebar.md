@@ -15,6 +15,9 @@
   - [透明背景教程](OneWidget/transparent.md)
   - [隐私协议](OneWidget/privacy.md)
   - [用户协议](OneWidget/terms.md)
+  - [主题问题](cn/OneWidget/theme.md)
+  - [小组件问题](cn/OneWidget/widget.md)
+  - [其他问题](cn/OneWidget/others.md)
 - OneTodo
   - [你好, OneTodo](cn/OneTodo/intro.md)
   - [隐私协议](OneTodo/privacy.md)
