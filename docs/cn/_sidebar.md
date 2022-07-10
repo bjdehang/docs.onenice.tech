@@ -28,6 +28,9 @@
 - OneGrow - 慢慢长大
   - [隐私协议](cn/OneGrow/privacy.md)
   - [用户协议](cn/OneGrow/terms.md)
+- OneMusic
+  - [隐私协议](cn/OneMusic/privacy.md)
+  - [用户协议](cn/OneMusic/terms.md)
 - 透明小组件
   - [你好，透明小组件](cn/TransparentWidget/intro.md)
   - [使用教程](cn/TransparentWidget/tutorial.md)

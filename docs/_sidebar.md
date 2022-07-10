@@ -28,6 +28,9 @@
 - OneGrow
   - [Privacy Policy](OneGrow/privacy.md)
   - [Terms of Use](OneGrow/terms.md)
+- OneMusic
+  - [Privacy Policy](OneMusic/privacy.md)
+  - [Terms of Use](OneMusic/terms.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
