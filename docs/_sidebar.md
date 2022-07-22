@@ -31,6 +31,8 @@
 - OneMusic
   - [Privacy Policy](OneMusic/privacy.md)
   - [Terms of Use](OneMusic/terms.md)
+  - [Promote](OneMusic/promo.md)
+  - [FAQ](OneMusic/qa.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
