@@ -33,6 +33,8 @@
   - [用户协议](cn/OneMusic/terms.md)
   - [我要推广](cn/OneMusic/promo.md)
   - [常见问题](cn/OneMusic/qa.md)
+  - [桌面小组件](cn/OneMusic/homescreen.md)
+  - [锁屏小组件](cn/OneMusic/lockscreen.md)
 - 透明小组件
   - [你好，透明小组件](cn/TransparentWidget/intro.md)
   - [使用教程](cn/TransparentWidget/tutorial.md)

@@ -33,6 +33,8 @@
   - [Terms of Use](OneMusic/terms.md)
   - [Promote](OneMusic/promo.md)
   - [FAQ](OneMusic/qa.md)
+  - [Home Screen](OneMusic/homescreen.md)
+  - [Lock Screen](OneMusic/lockscreen.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
