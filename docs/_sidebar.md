@@ -12,6 +12,7 @@
   - [Privacy Policy](OneScreen/privacy.md)
   - [Terms of Use](OneScreen/terms.md)
 - OneWidget
+  - [Tutorial](OneWidget/tutorial.md)
   - [Transparent](OneWidget/transparent.md)
   - [Privacy Policy](OneWidget/privacy.md)
   - [Terms of Use](OneWidget/terms.md)

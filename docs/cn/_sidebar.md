@@ -12,6 +12,7 @@
   - [隐私协议](cn/OneScreen/privacy.md)
   - [用户协议](cn/OneScreen/terms.md)
 - OneWidget
+  - [使用教程](cn/OneWidget/tutorial.md)
   - [透明背景教程](cn/OneWidget/transparent.md)
   - [隐私协议](cn/OneWidget/privacy.md)
   - [用户协议](cn/OneWidget/terms.md)
