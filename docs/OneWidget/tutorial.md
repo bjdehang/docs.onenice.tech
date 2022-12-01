@@ -24,11 +24,11 @@
 
 6. Click the widget again to enter the configuration list, click "Select".
 
-<img src="../OneWidget/img/HomeScreenWidget/06.png" width="360" />
+<img src="../OneWidget/img/HomeScreenWidget/06.png" width="720" />
 
 7. Click to select the widget you just saved, and click "Finish" in the upper right corner to add it successfully.
 
-<img src="../OneWidget/img/HomeScreenWidget/07.png" width="360" />
+<img src="../OneWidget/img/HomeScreenWidget/07.png" width="720" />
 
 
 ## Lock Screen Widget
@@ -44,7 +44,7 @@
 
 3. Click "Customize", jump to the lock screen edit page, then click the area below the time
 
-<img src="../OneWidget/img/LockScreenWidget/03.png" width="360" />
+<img src="../OneWidget/img/LockScreenWidget/03.png" width="720" />
 
 4. Find "OneWidget" and click on it
 
@@ -64,7 +64,7 @@
 
 8. Close the configuration list and click "Finish" in the upper right corner to add it successfully.
 
-<img src="../OneWidget/img/LockScreenWidget/08.png" width="360" />
+<img src="../OneWidget/img/LockScreenWidget/08.png" width="720" />
 
 
 ## Transparent Widget
@@ -111,11 +111,11 @@
 
 11. Click the widget again to enter the configuration list, and click "Choose".
 
-<img src="../OneWidget/img/TransparentWidget/11.png" width="360" />
+<img src="../OneWidget/img/TransparentWidget/11.png" width="720" />
 
 12. Click to select the transparent widget you just saved, and click "Finish" in the upper right corner to add it successfully.
 
-<img src="../OneWidget/img/TransparentWidget/12.png" width="360" />
+<img src="../OneWidget/img/TransparentWidget/12.png" width="720" />
 
 
 
