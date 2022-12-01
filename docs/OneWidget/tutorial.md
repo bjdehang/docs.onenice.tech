@@ -151,33 +151,33 @@
 
 8. Click the icon set you just downloaded, click "Install", enter the password and install it, then click Finish.
 
-<img src="../OneWidget/im gTheme/08.png" width="360" />
+<img src="../OneWidget/img/Theme/08.png" width="360" />
 
 9. Return to OneWidget, set the corresponding widget according to the theme style, and add it to the desktop
 
-<img src="../OneWidget/imgTheme/09.png" width="360" />
+<img src="../OneWidget/img/Theme/09.png" width="360" />
 
 10. Refer to the theme style, layout the desktop layout, the settings are complete
 
-<img src="../OneWidget/imgTheme/10.png" width="360" />
+<img src="../OneWidget/img/Theme/10.png" width="360" />
 
 
 ## Wallpapers
 
 1. Select the wallpaper you like, click "Download". 
 
-<img src="../OneWidget/imgWallpaper/01.png" width="360" />
+<img src="../OneWidget/img/Wallpaper/01.png" width="360" />
 
 2. Open "Settings-Wallpaper", click "Add new wallpaper", and set the wallpaper you just saved as the lock screen wallpaper or home screen wallpaper
 
-<img src="../OneWidget/imgWallpaper/02.png" width="360" />
+<img src="../OneWidget/img/Wallpaper/02.png" width="360" />
 
 
 ## Live Activity (Dynamic Island)
 
 1. Open OneWidget ， go to " Mine - Dynamic Island ".
 
-<img src="../OneWidget/imgLiveActivity/01.png" width="360" />
+<img src="../OneWidget/img/LiveActivity/01.png" width="360" />
 
 2. Select the content you want, click "Start".
 

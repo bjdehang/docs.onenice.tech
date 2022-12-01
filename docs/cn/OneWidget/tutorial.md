@@ -151,33 +151,33 @@
 
 8. 点击刚刚下载的图标套装，点击“安装”，输入密码并安装
 
-<img src="../OneWidget/im gTheme/08.png" width="360" />
+<img src="../OneWidget/img/Theme/08.png" width="360" />
 
 9. 根据主题样式设置好对应的小组件，并添加到桌面
 
-<img src="../OneWidget/imgTheme/09.png" width="360" />
+<img src="../OneWidget/img/Theme/09.png" width="360" />
 
 10. 参考主题样式，布置桌面排版，设置完成
 
-<img src="../OneWidget/imgTheme/10.png" width="360" />
+<img src="../OneWidget/img/Theme/10.png" width="360" />
 
 
 ## Wallpapers
 
 1. 选择喜欢的壁纸，点击“下载”
 
-<img src="../OneWidget/imgWallpaper/01.png" width="360" />
+<img src="../OneWidget/img/Wallpaper/01.png" width="360" />
 
 2. 打开“设置-墙纸”，点击“添加新墙纸”，将刚保存的壁纸设置为锁屏壁纸或主屏幕壁纸
 
-<img src="../OneWidget/imgWallpaper/02.png" width="360" />
+<img src="../OneWidget/img/Wallpaper/02.png" width="360" />
 
 
 ## Live Activity (Dynamic Island)
 
 1. 打开OneWidget，进入“个人中心-灵动岛”
 
-<img src="../OneWidget/imgLiveActivity/01.png" width="360" />
+<img src="../OneWidget/img/LiveActivity/01.png" width="360" />
 
 2. 选择你想要的灵动岛内容，点击“立即开启”
 
