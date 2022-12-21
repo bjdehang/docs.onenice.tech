@@ -18,6 +18,7 @@
   - [Terms of Use](OneWidget/terms.md)
   - [Theme](OneWidget/theme.md)
   - [Widget](OneWidget/widget.md)
+  - [Launcher](OneWidget/launcher.md)
   - [Others](OneWidget/others.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
