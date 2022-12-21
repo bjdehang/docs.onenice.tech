@@ -6,7 +6,7 @@
 
 2. Input the url and test it.
 
-<img src="../OneWidget/img/Launcher/01.png" width="360" />
+<img src="../OneWidget/img/Launcher/01.jpg" width="360" />
 
 
 ## Custom Shortcuts
@@ -15,4 +15,4 @@
 
 2. And input the name in OneWidget.
 
-<img src="../OneWidget/img/Launcher/02.png" width="360" />
+<img src="../OneWidget/img/Launcher/02.jpg" width="360" />
