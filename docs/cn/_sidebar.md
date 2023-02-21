@@ -20,6 +20,9 @@
   - [小组件](cn/OneWidget/widget.md)
   - [启动器](cn/OneWidget/launcher.md)
   - [其他问题](cn/OneWidget/others.md)
+- OneChat
+  - [隐私协议](cn/OneChat/privacy.md)
+  - [用户协议](cn/OneChat/terms.md)
 - OneTodo
   - [你好, OneTodo](cn/OneTodo/intro.md)
   - [隐私协议](cn/OneTodo/privacy.md)

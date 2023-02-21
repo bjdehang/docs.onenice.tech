@@ -20,6 +20,9 @@
   - [Widget](OneWidget/widget.md)
   - [Launcher](OneWidget/launcher.md)
   - [Others](OneWidget/others.md)
+- OneChat
+  - [Privacy Policy](OneChat/privacy.md)
+  - [Terms of Use](OneChat/terms.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
   - [Privacy Policy](OneTodo/privacy.md)
