@@ -14,8 +14,10 @@
 - OneWidget
   - [使用教程](cn/OneWidget/tutorial.md)
   - [透明背景教程](cn/OneWidget/transparent.md)
-  - [隐私协议](cn/OneWidget/privacy.md)
-  - [用户协议](cn/OneWidget/terms.md)
+  - [隐私协议iOS](cn/OneWidget/privacy.md)
+  - [用户协议iOS](cn/OneWidget/terms.md)
+  - [隐私协议Android](cn/OneWidget/a_privacy.md)
+  - [用户协议Android](cn/OneWidget/a_terms.md)
   - [主题](cn/OneWidget/theme.md)
   - [小组件](cn/OneWidget/widget.md)
   - [启动器](cn/OneWidget/launcher.md)
