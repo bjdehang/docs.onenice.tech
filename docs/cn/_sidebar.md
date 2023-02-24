@@ -25,6 +25,7 @@
 - OneChat
   - [隐私协议](cn/OneChat/privacy.md)
   - [用户协议](cn/OneChat/terms.md)
+  - [使用教程](cn/OneChat/tutorial.md)
 - OneTodo
   - [你好, OneTodo](cn/OneTodo/intro.md)
   - [隐私协议](cn/OneTodo/privacy.md)
