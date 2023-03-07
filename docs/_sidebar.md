@@ -23,7 +23,7 @@
 - OneChat
   - [Privacy Policy](OneChat/privacy.md)
   - [Terms of Use](OneChat/terms.md)
-  - [Tutorial](OneWidget/tutorial.md)
+  - [Tutorial](OneChat/tutorial.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
   - [Privacy Policy](OneTodo/privacy.md)
