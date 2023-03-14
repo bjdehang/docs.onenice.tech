@@ -1,16 +1,9 @@
 - 快速入门
   - [README](README.md)
-- OneDay
-  - [隐私协议](cn/OneDay/privacy.md)
-  - [用户协议](cn/OneDay/terms.md)
-- OneClock
-  - [屏幕保护程序](cn/OneClock/screensaver.md)
-- OneList - 极简清单
-  - [隐私协议](cn/OneList/privacy.md)
-  - [用户协议](cn/OneList/terms.md)
-- OneScreen
-  - [隐私协议](cn/OneScreen/privacy.md)
-  - [用户协议](cn/OneScreen/terms.md)
+- Wana Chat
+  - [隐私协议](cn/OneChat/privacy.md)
+  - [用户协议](cn/OneChat/terms.md)
+  - [使用教程](cn/OneChat/tutorial.md)
 - OneWidget
   - [使用教程](cn/OneWidget/tutorial.md)
   - [透明背景教程](cn/OneWidget/transparent.md)
@@ -22,10 +15,24 @@
   - [小组件](cn/OneWidget/widget.md)
   - [启动器](cn/OneWidget/launcher.md)
   - [其他问题](cn/OneWidget/others.md)
-- OneChat
-  - [隐私协议](cn/OneChat/privacy.md)
-  - [用户协议](cn/OneChat/terms.md)
-  - [使用教程](cn/OneChat/tutorial.md)
+- OneDay
+  - [隐私协议](cn/OneDay/privacy.md)
+  - [用户协议](cn/OneDay/terms.md)
+- OneMusic
+  - [隐私协议](cn/OneMusic/privacy.md)
+  - [用户协议](cn/OneMusic/terms.md)
+  - [我要推广](cn/OneMusic/promo.md)
+  - [常见问题](cn/OneMusic/qa.md)
+  - [桌面小组件](cn/OneMusic/homescreen.md)
+  - [锁屏小组件](cn/OneMusic/lockscreen.md)
+- OneClock
+  - [屏幕保护程序](cn/OneClock/screensaver.md)
+- OneList - 极简清单
+  - [隐私协议](cn/OneList/privacy.md)
+  - [用户协议](cn/OneList/terms.md)
+- OneScreen
+  - [隐私协议](cn/OneScreen/privacy.md)
+  - [用户协议](cn/OneScreen/terms.md)
 - OneTodo
   - [你好, OneTodo](cn/OneTodo/intro.md)
   - [隐私协议](cn/OneTodo/privacy.md)
@@ -36,13 +43,6 @@
 - OneGrow - 慢慢长大
   - [隐私协议](cn/OneGrow/privacy.md)
   - [用户协议](cn/OneGrow/terms.md)
-- OneMusic
-  - [隐私协议](cn/OneMusic/privacy.md)
-  - [用户协议](cn/OneMusic/terms.md)
-  - [我要推广](cn/OneMusic/promo.md)
-  - [常见问题](cn/OneMusic/qa.md)
-  - [桌面小组件](cn/OneMusic/homescreen.md)
-  - [锁屏小组件](cn/OneMusic/lockscreen.md)
 - 透明小组件
   - [你好，透明小组件](cn/TransparentWidget/intro.md)
   - [使用教程](cn/TransparentWidget/tutorial.md)

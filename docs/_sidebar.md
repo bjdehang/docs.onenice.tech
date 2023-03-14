@@ -1,5 +1,25 @@
 - Quick Start
   - [README](README.md)
+- Wana Chat
+  - [Privacy Policy](OneChat/privacy.md)
+  - [Terms of Use](OneChat/terms.md)
+  - [Tutorial](OneChat/tutorial.md)
+- OneWidget
+  - [Tutorial](OneWidget/tutorial.md)
+  - [Transparent](OneWidget/transparent.md)
+  - [Privacy Policy](OneWidget/privacy.md)
+  - [Terms of Use](OneWidget/terms.md)
+  - [Theme](OneWidget/theme.md)
+  - [Widget](OneWidget/widget.md)
+  - [Launcher](OneWidget/launcher.md)
+  - [Others](OneWidget/others.md)
+- OneMusic
+  - [Privacy Policy](OneMusic/privacy.md)
+  - [Terms of Use](OneMusic/terms.md)
+  - [Promote](OneMusic/promo.md)
+  - [FAQ](OneMusic/qa.md)
+  - [Home Screen](OneMusic/homescreen.md)
+  - [Lock Screen](OneMusic/lockscreen.md)
 - OneDay
   - [Privacy Policy](OneDay/privacy.md)
   - [Terms of Use](OneDay/terms.md)
@@ -11,19 +31,6 @@
 - OneScreen
   - [Privacy Policy](OneScreen/privacy.md)
   - [Terms of Use](OneScreen/terms.md)
-- OneWidget
-  - [Tutorial](OneWidget/tutorial.md)
-  - [Transparent](OneWidget/transparent.md)
-  - [Privacy Policy](OneWidget/privacy.md)
-  - [Terms of Use](OneWidget/terms.md)
-  - [Theme](OneWidget/theme.md)
-  - [Widget](OneWidget/widget.md)
-  - [Launcher](OneWidget/launcher.md)
-  - [Others](OneWidget/others.md)
-- OneChat
-  - [Privacy Policy](OneChat/privacy.md)
-  - [Terms of Use](OneChat/terms.md)
-  - [Tutorial](OneChat/tutorial.md)
 - OneTodo
   - [Hello, OneTodo](OneTodo/intro.md)
   - [Privacy Policy](OneTodo/privacy.md)
@@ -34,13 +41,6 @@
 - OneGrow
   - [Privacy Policy](OneGrow/privacy.md)
   - [Terms of Use](OneGrow/terms.md)
-- OneMusic
-  - [Privacy Policy](OneMusic/privacy.md)
-  - [Terms of Use](OneMusic/terms.md)
-  - [Promote](OneMusic/promo.md)
-  - [FAQ](OneMusic/qa.md)
-  - [Home Screen](OneMusic/homescreen.md)
-  - [Lock Screen](OneMusic/lockscreen.md)
 - Transparent Widget
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
