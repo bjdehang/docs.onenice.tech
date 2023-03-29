@@ -1,9 +1,9 @@
 - 快速入门
   - [README](README.md)
-- Wana Chat
-  - [隐私协议](cn/OneChat/privacy.md)
-  - [用户协议](cn/OneChat/terms.md)
-  - [使用教程](cn/OneChat/tutorial.md)
+- Wana AI
+  - [隐私协议](cn/WanaAI/privacy.md)
+  - [用户协议](cn/WanaAI/terms.md)
+  - [使用教程](cn/WanaAI/tutorial.md)
 - OneWidget
   - [使用教程](cn/OneWidget/tutorial.md)
   - [透明背景教程](cn/OneWidget/transparent.md)

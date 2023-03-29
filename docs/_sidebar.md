@@ -1,9 +1,9 @@
 - Quick Start
   - [README](README.md)
-- Wana Chat
-  - [Privacy Policy](OneChat/privacy.md)
-  - [Terms of Use](OneChat/terms.md)
-  - [Tutorial](OneChat/tutorial.md)
+- Wana AI
+  - [Privacy Policy](WanaAI/privacy.md)
+  - [Terms of Use](WanaAI/terms.md)
+  - [Tutorial](WanaAI/tutorial.md)
 - OneWidget
   - [Tutorial](OneWidget/tutorial.md)
   - [Transparent](OneWidget/transparent.md)
