@@ -6,7 +6,7 @@
 
 2. 通过对话列表，点击顶部的新建对话开启
 
-<img src="../cn/OneChat/img/tutorial_cn01.png" width="720" />
+<img src="../cn/WanaAI/img/tutorial_cn01.png" width="720" />
 
 ## 如何修改对话标题？
 
@@ -14,4 +14,4 @@
 
 2. 进入设置，点击标题位置即可修改标题
 
-<img src="../cn/OneChat/img/tutorial_cn02.png" width="720" />
+<img src="../cn/WanaAI/img/tutorial_cn02.png" width="720" />

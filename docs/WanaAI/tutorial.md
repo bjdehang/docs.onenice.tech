@@ -6,7 +6,7 @@
 
 2. Open a new conversation by clicking "Create Conversation" at the top of the conversation list.
 
-<img src="../cn/OneChat/img/tutorial_en01.png" width="720" />
+<img src="../cn/WanaAI/img/tutorial_en01.png" width="720" />
 
 
 ## How to change the conversation title?
@@ -15,4 +15,4 @@
 
 2. Enter the settings and click on the title location to modify the title.
 
-<img src="../cn/OneChat/img/tutorial_en02.png" width="720" />
+<img src="../cn/WanaAI/img/tutorial_en02.png" width="720" />
