@@ -51,3 +51,9 @@
 - 隐藏刘海
   - [隐私协议](cn/HideNotch/privacy.md)
   - [用户协议](cn/HideNotch/terms.md)
+- 天天口语
+  - [隐私协议](cn/WanaSpeak/privacy.md)
+  - [用户协议](cn/WanaSpeak/terms.md)
+- 快快脚本
+  - [隐私协议](cn/WanaSpeak/privacy.md)
+  - [用户协议](cn/WanaSpeak/terms.md)
