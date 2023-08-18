@@ -55,5 +55,5 @@
   - [隐私协议](cn/WanaSpeak/privacy.md)
   - [用户协议](cn/WanaSpeak/terms.md)
 - 快快脚本
-  - [隐私协议](cn/WanaSpeak/privacy.md)
-  - [用户协议](cn/WanaSpeak/terms.md)
+  - [隐私协议](cn/WanaScript/privacy.md)
+  - [用户协议](cn/WanaScript/terms.md)
