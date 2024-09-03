@@ -49,3 +49,6 @@
 - Hide Notch
   - [Privacy Policy](HideNotch/privacy.md)
   - [Terms of Use](HideNotch/terms.md)
+- SoMate
+  - [Privacy Policy](SoMate/privacy.md)
+  - [Terms of Use](SoMate/terms.md)
