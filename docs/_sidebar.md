@@ -25,6 +25,8 @@
   - [Terms of Use](OneDay/terms.md)
 - OneClock
   - [Screensaver](OneClock/screensaver.md)
+  - [Privacy](OneClock/privacy.md)
+  - [Terms](OneClock/terms.md)
 - OneList
   - [Privacy Policy](OneList/privacy.md)
   - [Terms of Use](OneList/terms.md)

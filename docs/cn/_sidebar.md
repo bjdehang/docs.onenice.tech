@@ -1,9 +1,5 @@
 - 快速入门
   - [README](README.md)
-- Wana AI
-  - [隐私协议](cn/WanaAI/privacy.md)
-  - [用户协议](cn/WanaAI/terms.md)
-  - [使用教程](cn/WanaAI/tutorial.md)
 - OneWidget
   - [使用教程](cn/OneWidget/tutorial.md)
   - [透明背景教程](cn/OneWidget/transparent.md)
@@ -27,6 +23,8 @@
   - [锁屏小组件](cn/OneMusic/lockscreen.md)
 - OneClock
   - [屏幕保护程序](cn/OneClock/screensaver.md)
+  - [隐私协议](cn/OneClock/privacy.md)
+  - [用户协议](cn/OneClock/terms.md)
 - OneList - 极简清单
   - [隐私协议](cn/OneList/privacy.md)
   - [用户协议](cn/OneList/terms.md)
@@ -54,3 +52,7 @@
 - SoMate
   - [隐私协议](cn/SoMate/privacy.md)
   - [用户协议](cn/SoMate/terms.md)
+- Wana AI
+  - [隐私协议](cn/WanaAI/privacy.md)
+  - [用户协议](cn/WanaAI/terms.md)
+  - [使用教程](cn/WanaAI/tutorial.md)
