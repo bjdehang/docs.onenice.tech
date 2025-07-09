@@ -1,9 +1,5 @@
 - Quick Start
   - [README](README.md)
-- Wana AI
-  - [Privacy Policy](WanaAI/privacy.md)
-  - [Terms of Use](WanaAI/terms.md)
-  - [Tutorial](WanaAI/tutorial.md)
 - OneWidget
   - [Tutorial](OneWidget/tutorial.md)
   - [Transparent](OneWidget/transparent.md)
@@ -43,7 +39,7 @@
 - OneGrow
   - [Privacy Policy](OneGrow/privacy.md)
   - [Terms of Use](OneGrow/terms.md)
-- Transparent Widget
+- OneWidget Air
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
   - [Privacy Policy](TransparentWidget/privacy.md)
@@ -51,7 +47,3 @@
 - Hide Notch
   - [Privacy Policy](HideNotch/privacy.md)
   - [Terms of Use](HideNotch/terms.md)
-- SoMate
-  - [Privacy Policy](SoMate/privacy.md)
-  - [Terms of Use](SoMate/terms.md)
-  - [Tips](SoMate/tips.md)
