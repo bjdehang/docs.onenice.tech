@@ -16,6 +16,9 @@
   - [FAQ](OneMusic/qa.md)
   - [Home Screen](OneMusic/homescreen.md)
   - [Lock Screen](OneMusic/lockscreen.md)
+- OneCoin
+  - [Privacy Policy](OneCoin/privacy.md)
+  - [Terms of Use](OneCoin/terms.md)
 - OneDay
   - [Privacy Policy](OneDay/privacy.md)
   - [Terms of Use](OneDay/terms.md)

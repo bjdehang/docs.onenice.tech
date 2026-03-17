@@ -1,256 +1,259 @@
-Beijing OneNice Science and Technology Co. Ltd.(also known as "we") understands the importance of personal information to users, we have always attached great importance to the protection of user privacy and information, in your use of the services provided by the platform of Beijing OneNice Science and Technology Co. Ltd. Public disclosure, sharing, transfer and protection of your personal information. This policy applies to all products and services offered on the Beijing Good Technology Co. If there is no separate privacy policy for a product or service, this policy also applies to that part of the product or service.
+# OneCoin隐私协议
 
-This policy explains how we collect, store, use, publicly disclose, share, transfer and protect your personal information when you use our products and/or services, and how we provide you with access to, update, delete and protect your personal information. We want this policy to give you a clear picture of how we handle your personal information, so we recommend that you read it in full to help you understand how you can maintain your privacy and information. 
+成都再创再作科技有限公司（又称“我们”）深知个人信息对用户的重要性， 我们一直以来非常重视用户个人隐私和信息的保护，在您使用成都再创再作科技有限公司平台提供的服务时，我们将按照本隐私政策（简称：本政策） 收集、存储、使用、公开披露、共享、转让和保护您的个人信息。本政策适用于成都再创再作科技有限公司平台提供的所有产品和服务。 如成都再创再作科技有限公司产品或服务未独立设立隐私政策的，则本政策同样适用于该部分产品或服务。
 
-If you do not agree with any of the contents of this policy, you should immediately stop using the OneCoin Platform services. By using any of the services offered on the OneCoin Platform, you agree to our lawful use and protection of your personal information in accordance with this policy.
+本政策 向您说明我们在您使用我们产品及/或服务时如何收集、存储、使用、公开披露、共享、转让和保护您的个人信息， 以及我们为您提供的查询、更新、删除和保护您的个人信息的方式。我们希望通过本政策向您清晰地介绍我们对您个人信息的处理方式， 因此我们建议您完整地阅读本政策，以帮助您了解维护自己个人隐私和信息的方式。
 
-## I. Definitions
+如果您不同意本政策任何内容，您应立即停止使用OneCoin平台服务。当您使用OneCoin平台提供的任一服务时，即表示您已同意我们按照本政策来合法使用和保护您的个人信息。
 
-1.1 OneCoin: The term OneCoin platform operators, OneCoin goods or service providers, either singularly or collectively, including but not limited to Beijing GoodGrow Technology Co.
+### 一、定义
 
-1.2 Personal Information: All kinds of information recorded electronically or otherwise that can identify a specific natural person or reflect the activities of a specific natural person, either alone or in combination with other information.
+1.1 OneCoin： OneCoin平台经营者、OneCoin商品或服务提供者的单称或合称，包括但不限于成都再创再作科技有限公司等。
 
-The personal information covered by this policy includes. 
-(1) Basic personal information (including a person's name, date of birth, gender, personal telephone number, and email address). 
-(2) Internet identification information (including system accounts, IP addresses, email addresses and passwords, passwords, password-protected answers related to the foregoing) 
-(3) Personal Internet access records (including website browsing records, software usage records, click records) 
-(4) Personal common device information (including hardware model, device MAC address, operating system type, software list, unique device identification code, IMEI, AndroidID, OpenUDID, IDFA, screen resolution, etc.) 
-(5) Personal location information.
+1.2 个人信息： 以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。
 
-1.3 Personal Sensitive Information: Personal information that, if leaked, illegally provided or misused, may endanger the safety of persons and property and is highly likely to lead to damage to a person's reputation, physical or mental health, or discriminatory treatment, etc.
+本政策中涉及的个人信息包括： 
+（1）个人基本资料（包括个人姓名、生日、性别、个人电话号码、电子邮箱）； 
+（2）网络身份标识信息（包括系统账号、IP地址、邮箱地址及与前述有关的密码、口令、口令保护答案）； 
+（3）个人上网记录（包括网站浏览记录、软件使用记录、点击记录）； 
+（4）个人常用设备信息（包括硬件型号、设备MAC地址、操作系统类型、软件列表、唯一设备识别码、IMEI、AndroidID、OpenUDID、IDFA、屏幕分辨率等）； 
+（5）个人位置信息。
 
-The sensitive personal information covered by this policy includes. 
-(1) Internet-identifiable information (including account names, account nicknames, email addresses and passwords and password-protected questions and answers relating to the foregoing).
-(2) Other information (including address books, personal telephone numbers, mobile phone numbers, web browsing history, and precise location information).
+1.3 个人敏感信息： 一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的个人信息。
 
-1.4 Personal Information Deletion: The act of removing personal information from systems involved in carrying out day-to-day business functions so that it remains unavailable for retrieval or access.
+本政策中涉及的个人敏感信息包括： 
+（1） 网络身份识别信息（包括账户名、账户昵称、邮箱地址及与前述有关的密码与密码保护问题和答案）；
+（2） 其他信息（包括通讯录、个人电话号码、手机号码、网页浏览记录、精准定位信息）。
 
-1.5 Unique Device Identifier: A unique device identifier (sometimes referred to as a Universal Unique ID or UUID) is a string of characters programmed into a device by the device manufacturer that can be used to identify the corresponding device in a unique way (e.g. International Mobile Equipment Identity (IMEI) number, network device hardware address MAC, advertising identifier IDFA, etc.). Different device identifiers may vary in terms of validity, whether they can be reset by the user and how they are obtained. The corresponding device may have several different unique device identifiers. Unique device identifiers can be used for a variety of purposes, including security and fraud detection, synchronising services (such as a user's email inbox), recording a user's preferences and providing relevant advertising.
+1.4 个人信息删除： 在实现日常业务功能所涉及的系统中去除个人信息的行为，使其保持不可被检索或访问的状态。
 
-1.6 Cookies: A mechanism that supports server-side (or scripted) storage and retrieval of information on the client, extending web-based client/server applications by adding simple, persistent client-side state. The server sends a status message along with the HTTP object returned to the client and saved by the client. The status message states the range of URLs valid in that state. Thereafter, all HTTP requests initiated by the client within this range will return the current value of this status information, called a cookie, from the client to the server.
+1.5 唯一设备识别码： 具有唯一性的设备标识符（有时称为通用专属 ID 或 UUID）是指由设备制造商编入到设备中的一串字符，可用于以独有方式标识相应设备 （例如国际移动设备身份码IMEI号、网络设备硬件地址MAC、广告标识符IDFA等）。不同的设备标识符在有效期、用户是否可以重置以及获取方式方面会有所不同。 相应设备可能会有多个不同的具有唯一性的设备标识符。唯一设备标识符可用于多种用途，其中包括安全性和欺诈检测、同步服务（如用户的电子邮件收件箱）、 记录用户的偏好设置以及提供具有相关性的广告。
 
-1.7 Device Information: means information including device name, device model, device identifier, operating system and application version, language setting, resolution, service provider network ID (PLMN), MAC, IMEI, AndroidID, OpenUDID, IDFA.
+1.6  Cookie： 支持服务器端（或者脚本）在客户端上存储和检索信息的一种机制，通过增加简单、持续的客户端状态来扩展基于Web的客户端/服务器应用。 服务器在向客户端返回HTTP对象的同时发送一条状态信息，并由客户端保存。状态信息中说明了该状态下有效的URL范围。 此后，客户端发起的该范围内的HTTP请求都将把该状态信息的当前值从客户端返回给服务器，这个状态信息被称为Cookie。
 
-1.8 Information Description: Your device unique identifier (IMEI/android ID/DEVICE_ID/IDFA, SIM card IMSI information) needs to be collected during application operation to provide statistical analysis services and to improve performance and user experience through application launch data and exception error log analysis to provide better services to users
+1.7 设备信息： 是指包括设备名称、设备型号、设备识别码、操作系统和应用程序版本、语言设置、分辨率、服务提供商网络ID（PLMN）、MAC、IMEI、AndroidID、OpenUDID、IDFA。
 
-## II. Scope of this Policy
+1.8 信息说明： 应用运行期间需要收集您的设备唯一识别码（IMEI/android ID/DEVICE_ID/IDFA、SIM 卡 IMSI 信息）以提供统计分析服务，并通过应用启动数据及异常错误日志分析改进性能和用户体验，为用户提供更好的服务
 
-2.1 This Policy applies to all services provided by the OneCoin Platform and applies to your use of the services provided by the OneCoin Platform when you visit the OneCoin Platform website and/or access the relevant client, as well as when you access the OneCoin Platform website or access the relevant client where there is no separate privacy policy.
+### 二、本政策适用范围
 
-2.2 In particular, this Policy does not apply to services provided to you by third parties, for example, where a merchant on the OneCoin Platform relies on the OneCoin Platform to provide services to you (e.g. a third party payment/purchase channel), the personal information you provide to the merchant does not apply to this Policy and we are not responsible for any third party's use of the information provided by you, except as expressly provided by law. .
+2.1 本政策适用于OneCoin平台提供的所有服务，您访问OneCoin平台网站及/或登陆相关客户端使用OneCoin平台提供的服务， 及未设独立隐私政策的OneCoin平台网站、登陆相关客户端，均适用本政策。
 
-## III. How we collect your personal information
+2.2 需要特别说明的是，本政策不适用于第三方向您提供的服务，例如OneCoin平台上的商家依托OneCoin平台向您提供服务时（如第三方支付/购买渠道）， 您向商家提供的个人信息不适用于本政策，除非法律有明确规定，我方对任何第三方使用由您提供的信息不承担任何责任。
 
-3.1 Circumstances in which personal information is collected from you to fulfil the core functions of our services
+### 三、我们如何收集您的个人信息
 
-3.1.1 Helping you to become a registered user 
-In order to help you become a registered user of our services so that we can provide you with the core features, you will need to create an account on the OneCoin platform, provide a mobile phone number or email address and create a registered username and password. If you only need to use basic services such as browsing and searching, you do not need to register as a registered user and provide the above information; if you need to use the OneCoin Platform information distribution services, you will need to provide OneCoin with your true identity information in accordance with relevant laws and regulations and be verified and authenticated by the OneCoin Platform before you can use it. 
+3.1 为实现我们服务的核心功能，须向您收集个人信息的情形
 
-3.1.2 Providing our products and/or services to you 
-(1) In order to enable you to quickly find the product or service you are looking for and to optimise the search results, we may collect information about the device you use to access our services, the type of browser you use, etc. in order to provide you with the best way to display product information. We may also use your personal information as described above in order to continuously improve and optimise the functions described above. 
-(2) In order to make it easy for you to find the product or service you are looking for. We may retain the content of your search in order to allow you to repeat it or to show you products or services that are related to your search. Please understand that your search keyword information is non-identifiable information and we have the right to use your search keyword information; only if your search keyword information is used in combination with other information that identifies you, then we will treat your search keyword information as your personal information for the duration of the combination, together with your search history, in accordance with this policy. We will treat your search keyword information as your personal information for the duration of the combined use, together with your search history, in accordance with this policy. 
-(3) During your use of the browsing and favourites features, we may collect details of your use of the OneCoin Platform and keep a web log of such use, including, but not limited to, information about the search terms you enter and links you click on, information about the content you view and post and comments you make, information about the images you upload, information about your transactions, the language you use, the date and time of your visit, and a record of the pages you request, operating system, software version (4) When you are ready to settle your account, you may delete your browsing history at your own discretion. 
-(4) When you are ready to settle your order, the OneCoin platform system will generate an order for the goods or services you have purchased. Payment institutions collect and process information in accordance with their own privacy terms/policies, which do not apply to this policy. In order to maximize the security of your personal information and privacy, we recommend that you review the privacy terms/policies of payment institutions before using their services. 
-(7) To ensure the security of your account, our call centre customer service and online customer service will use your account information to verify your identity with you. When you contact our customer service with your request, we may require you to provide us with your relevant personal information for verification purposes for your account and system security. 
+3.1.1 帮助您成为我们的注册用户 
+为帮助您成为我们的注册用户，以便我们为您提供核心功能服务，您需要在OneCoin平台创建一个账户，提供手机号码或邮箱号，并创建注册用户名和密码。如果您仅需使用浏览、搜索等基本服务， 您不需要注册成为我们的注册用户及提供上述信息；如果您需使用OneCoin平台信息发布服务，您需按照相关法律法规向OneCoin提供真实身份信息，经OneCoin平台核验认证后方可使用。 
 
-3.1.3 Improving our products or services 
-We may collect your browsing and search information, basic information, device information, order information, and your interests for data analysis to form a user profile that can be used to present you with information about the products or services you are interested in; or to show you what you might expect to find when you search. We may also obtain other information about you that we reasonably need to provide and improve our services, including information you provide when you contact customer service, information you send us in response to surveys you take, and information we obtain when you interact with our affiliates and our partners. Information collected from your various devices may be linked so that we can provide you with consistent services on those devices. We may combine information from one service with information from other services in order to provide you with services, personalised content and recommendations.
+3.1.2 向您提供我们产品和/或服务 
+（1）为了让您快速地找到您所需要的产品或服务，对搜索结果进行优化，我们可能会收集您使用我们服务的设备信息、浏览器类型等来为您提供商品信息展示的最优方式。我们也会为了不断改进和优化上述的功能来使用您的上述个人信息。 
+（2）为了让您便捷地找到您所需要的商品或服务。我们会保留您的搜索内容以方便您重复输入或为您展示与您搜索内容相关联的商品或服务。 请您理解，您的搜索关键词信息是无法识别您的身份的信息，我们有权对您的搜索关键词信息进行使用； 只有当您的搜索关键词信息与您的其他信息相互结合使用并可以识别您的身份时， 则在结合使用期间，我们会将您的搜索关键词信息作为您的个人信息，与您的搜索历史记录一同按照本政策对其进行处理与保护。 
+（3）在您使用浏览和收藏功能的过程中，我们会收集您使用OneCoin平台的详细情况，并作为有关的网络日志保存， 包括但不限于您输入的搜索关键词信息和点击的链接、您浏览和发布的内容及评论信息、您上传的图片信息、您的交易信息、您使用的语言、访问的日期和时间、及您请求的网页记录、操作系统、软件版本号、登录IP信息，但您可以自主删除浏览记录。 
+（4）当您准备进行结算时，OneCoin平台系统会生成您购买该商品或服务的订单。支付机构收集和处理信息等行为遵守其自身的隐私条款/政策，而不适用于本政策，为了最大程度保障您个人信息和隐私的安全，我们建议您在使用支付机构服务前先行查看其隐私条款/政策。 
+（7）为保证您的账号安全，我们的呼叫中心客服和在线客服会使用您的账号信息与您核验您的身份。当您联系我们的客服提出您的需求时，为了您的账号与系统安全，我们可能需要您提供您的相关个人信息进行验证。 
 
-3.1.4 Securing accounts and transactions 
-In order to improve the security of your use of the services provided by us and our partners, to protect you or other users or members of the public from harm to their personal property, to better prevent security risks such as phishing, fraud, vulnerabilities, computer viruses, cyber attacks, network intrusions and to more accurately identify violations of laws and regulations or the rules of the relevant OneCoin Platform agreements, we may use your user information We may use your user information, transaction information, device information, relevant web logs, web usage habits and information that our affiliates and partners have obtained your authorisation for or have shared with us in accordance with the law to make a comprehensive determination of your account and transaction risks, to verify your identity, to detect and prevent security incidents, and to take the necessary recording, auditing, analysis and disposal measures in accordance with the law.
+3.1.3 改进我们的产品或服务 
+我们可能会收集您的浏览和搜索信息、基本信息、设备信息、订单信息、您的兴趣爱好进行数据分析以形成用户画像，用来将您感兴趣的商品或服务信息展示给您；或在您搜索时向您展示您可能希望找到的商品。 我们还可能为了提供服务及改进服务质量的合理需要而获得的您的其他信息， 包括您与客服联系时您提供的相关信息，您参与问卷调查时向我们发送的问卷答复信息，以及您与我们的关联方、我们合作伙伴之间互动时我们获得的相关信息。 对于从您的各种设备上收集到的信息， 我们可能会将它们进行关联，以便我们能在这些设备上为您提供一致的服务。我们可能会将来自某项服务的信息与来自其他服务的信息结合起来，以便为您提供服务、个性化内容和建议。
 
-3.2 Circumstances in which you can choose whether to authorise us to collect your personal data in order to enable additional features of our services
+3.1.4 保障账号及交易安全 
+为提高您使用我们及我们合作伙伴提供服务的安全性，保护您或其他用户或公众的人身财产安全免遭侵害，更好地预防钓鱼网站、欺诈、网络漏洞、计算机病毒、网络攻击、网络侵入等安全风险， 更准确地识别违反法律法规或OneCoin平台相关协议规则的情况， 我们可能使用您的用户信息、交易信息、设备信息、有关网络日志、网络使用习惯以及我们关联公司、合作伙伴取得您授权或依据法律共享的信息， 来综合判断您账户及交易风险、进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施。
 
-3.2.1 Additional personal data
-If you provide additional personal data such as your gender, date of birth, place of residence, avatar, date of birth of your baby, we can provide you with a more personalised service. However, the provision or non-provision of this information does not affect your access to the basic features of OneCoin.
+3.2 为实现我们服务的附加功能，您可选择是否授权我们收集您的个人信息的情形
 
-3.2.2 Calling system permissions
+3.2.1 额外个人资料
+如果您提供您的性别、出生年月日、居住地、头像、您宝宝的出生年月日等额外的个人资料，我们可以为您提供更加个性化的服务。 但这些信息的提供与否，不影响您使用OneCoin的基本功能。
 
-System type Device permissions Purpose of calling permissions Time of initial enquiry Can the user turn off permissions
-iOS Calendar Read and write calendar events to implement calendar functions When using related functions Yes
-iOS Camera Uploading avatars, questions and answers, posting replies When using related functions Yes
-iOS Photo Upload avatars, quizzes, post replies Yes when using related functions
-iOS Contacts Import friends from chat, etc.
-iOS Health Data Access health data to accurately record step count, step count + distance, etc.
-iOS Location Use your location (accurate) information when using Circle, City Life, People Nearby, etc.
-iOS Notifications Receive push content from the platform When you first launch the app
-iOS Network Get updates from the platform Yes when you first launch the app
+3.2.2 系统权限的调用
 
-Please note that by turning on these permissions you are granting us permission to collect and use your personal information to perform the functions described above, and by turning off these permissions you are cancelling these permissions. Your decision to disable your access will not affect the processing of personal information previously based on your authorisation.
+系统类型 设备权限 调用权限的目的 初次询问的时间 用户可否关闭权限
+iOS 日历 读写日历事件，实现日历功能 使用相关功能时 可以
+iOS 相机 上传头像、问答、发回帖 使用相关功能时 可以
+iOS 照片 上传头像、问答、发回帖 使用相关功能时 可以
+iOS 通讯录 聊天导入好友等 使用相关功能时 可以
+iOS 健康数据 访问健康数据，精准的记录步数、步数+跑步距离等信息 使用相关功能时 可以
+iOS 位置 在使用小区圈子、同城生活服务、附近的人功能时使用您的位置（精准）信息 使用相关功能时 可以
+iOS 通知 接收平台推送内容 初次启动APP时 可以
+iOS 网络 获取平台更新内容 初次启动APP时 可以
 
-3.3 Circumstances in which personal information may be collected from you without authorization You fully understand and agree that, in accordance with the relevant laws and regulations, your authorized consent is not required for the collection of your personal information in the following circumstances. 
-(1) in relation to national security or defence security
-(2) in relation to public safety, public health or vital public interests
-(3) in connection with the investigation, prosecution, trial and execution of judgments for crimes
-(4) For the purpose of safeguarding the life, property and other significant legitimate rights and interests of the subject of personal information or other individuals but where it is difficult to obtain your consent
-(5) Where the personal information collected is disclosed by you to the public at your own discretion
-(6) Where personal information is collected from information that is lawfully and publicly disclosed, such as lawful news reports, government information disclosure and other channels.
-(7) Necessary to enter into a contract at your request.
-(8) Necessary for maintaining the safe and stable operation of the products or services provided, such as detecting and disposing of faults in products or services.
-(9) Necessary for legitimate news reporting.
-(10) Where necessary for academic research institutions to carry out statistical or academic research in the public interest and to de-identify the personal information contained in the results when providing the results of academic research or descriptions to the public
-(11) Other circumstances as provided for by laws and regulations.
+请您注意，您开启这些权限即代表您授权我们可以收集和使用这些个人信息来实现上述的功能，您关闭权限即代表您取消了这些授权， 则我们将不再继续收集和使用您的这些个人信息，也无法为您提供上述与这些权限所对应的功能。您关闭权限的决定不会影响此前基于您的授权所进行的个人信息的处理。
 
-3.4 Where we obtain your personal information from third parties
-We may obtain personal information from third parties that you have authorised to be shared with us and, once you have agreed to this policy, we may link your third party account to your OneCoin account so that you can log in and use our products and/or services directly through your third party account. We will use your personal information in accordance with our agreement with the third party, confirming the legitimacy of the source of the personal information, and in accordance with relevant laws and regulations. We will protect your personal information obtained from third parties using means and measures no less protective than those we use to protect our own users' personal information.
+3.3 无需授权，依法可向您收集个人信息的情形 您充分理解并同意，根据相关法律法规规定，以下情形中收集您的个人信息无需征得您的授权同意： 
+（1）与国家安全、国防安全有关的；
+（2）与公共安全、公共卫生、重大公共利益有关的；
+（3）犯罪侦查、起诉、审判和判决执行等有关的；
+（4）出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；
+（5）所收集的个人信息是您自行向社会公众公开的；
+（6）从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；
+（7）根据您的要求签订合同所必需的；
+（8）用于维护所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；
+（9）为合法的新闻报道所必需的；
+（10）学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；
+（11）法律法规规定的其他情形。
 
-3.5 Other
+3.4 我们从第三方获得您个人信息的情形
+我们可能从第三方获取您授权共享的个人信息， 并在您同意本政策后将您的第三方账户与您的OneCoin账户绑定，使您可以通过第三方账户直接登录并使用我们的产品与/或服务。 我们会将依据与第三方的约定、对个人信息来源的合法性进行确认后，在符合相关法律和法规规定的前提下，使用您的这些个人信息。 我们会使用不低于我们对自身用户个人信息同等的保护手段与措施对从第三方获取的您的个人信息进行保护。
 
-3.5.1 If the information you provide contains personal information about other users, you should ensure that you are legally authorised to do so before you provide such personal information to us.
+3.5其他
 
-3.5.2 We will obtain your prior consent to use information for purposes other than those set out in this policy, or to use information collected for a specific purpose for other purposes.
+3.5.1 若您提供的信息中含有其他用户的个人信息，在您向我们提供这些个人信息之前，您应确保您已经取得合法授权。
 
-3.5.3 The third party push provider SDKs we integrate with may collect information about your application installation list. This information helps us to analyse your interests so that we can provide richer profiling tags for pushing technical services, personalised push, and recommending content of interest to users. We use merging link technology for technical push, when there are multiple push links of APPs active at the same time on a device, we will randomly merge them into one link to achieve the purpose of saving power and traffic for you, so you need to get the application list information; at the same time, we provide intelligent push function, through this information to recommend push contents that better meet your needs and reduce the disturbance of useless push information to you.
+3.5.2 我们将信息用于本政策未载明的其他用途，或者将基于特定目的收集而来的信息用于其他目的时，会事先获得您的同意。
 
-3.5.4 We collect your MAC address and other device information (including MAC address, IMEI, AndroidID, OpenUDID, IDFA, hardware model, operating system information, etc.) for the purposes of recording user preferences, personalising content of interest to users, providing advertisements based on user preferences, security verification, anti-fraud detection, chat functions third-party cloud storage of photos and videos, customer service consultation, voice recognition, data statistics, e-commerce functions, integration with third-party authorised logins such as WeChat and Weibo, etc.
+3.5.3 我们集成的第三方推送供应商SDK可能会收集您的应用软件安装列表信息。这些信息有助于我们分析您的兴趣爱好，从而可以提供更加丰富的画像标签，用于推送技术服务、个性化push、向用户推荐感兴趣的内容。我们采用合并链路技术进行技术推送，当一个设备有多个APP的推送链路同时活跃时，我们会随机合并成一条链路，以达到为您省电省流量的目的，因此需获得应用列表信息；同时我们提供智能推送功能，通过该信息推荐更符合您需要的推送内容，减少无用推送信息对您的打扰。
 
-## IV. How we use your personal information
+3.5.4 我们收集您的MAC地址等设备信息（包括MAC地址、IMEI、AndroidID、OpenUDID、IDFA、硬件型号、操作系统信息等）的用途是记录用户的偏好设置、向用户个性化推荐感兴趣的内容、根据用户偏好提供广告、安全性验证、反欺诈检测、聊天功能、第三方云存储照片视频、客服咨询、语音识别、数据统计、电商功能、集成微信微博等第三方授权登录等。
 
-4.1 How we use your personal information
+### 四.我们如何使用您的个人信息
 
-4.1.1 to provide you with information about your use of our services and to maintain and improve those services
+4.1 我们如何使用您的个人信息
 
-4.1.2 To recommend content that may be of interest to you, including, but not limited to, sending you information about products or services, or displaying personalised third party promotions to you through the system, or, with your consent, sharing information with OneCoin's partners so that they can send you information about their products and services. If you do not wish to receive such information, you may unsubscribe by using the appropriate unsubscribe function.
+4.1.1 向您提供您使用我们的服务，并维护、改进这些服务。
 
-4.1.3. We may keep statistics on the use of our services and may share these statistics with the public or third parties to show overall trends in the use of our services. However, these statistics do not contain any identifying information about you. Third parties include our affiliates and/or partners, but we will only share statistical information for purposes that are legal, legitimate, necessary, specific and explicit as stated in this policy
+4.1.2 向您推荐您可能感兴趣的内容， 包括但不限于向您发出产品或服务信息，或通过系统向您展示个性化的第三方推广信息， 或者在征得您同意的情况下与OneCoin的合作伙伴共享信息以便他们向您发送有关其产品和服务的信息。如您不希望接收上述信息，可通过相应的退订功能进行退订。
 
-4.1.4 to use your personal information to prevent, detect, investigate fraud, compromise security, unlawful or violate agreements, policies or rules with us or our affiliates in order to protect the legitimate interests of you, other users, us or our affiliates
+4.1.3. 我们可能会对我们服务使用情况进行统计，并可能会与公众或第三方共享这些统计信息， 以展示我们服务的整体使用趋势。但这些统计信息不包含您的任何身份识别信息。 第三方包括我们的关联方及/或合作伙伴，但我们仅会出于本政策声明的合法、正当、必要、特定、明确的目的共享统计信息
 
-4.1.5 For other purposes authorised by you.
+4.1.4 用您的个人信息以预防、发现、调查欺诈、危害安全、非法或违反与我们或其关联方协议、政策或规则的行为，以保护您、其他用户，我们或我们关联方的合法权益。
 
-4.2 Personal Information Security Usage Rules
+4.1.5 经您授权的其他用途。
 
-4.2.1 After collecting your personal information, we will de-identify the data through technical means, and the de-identified information will not be able to identify you personally. Please understand and agree that we have the right to use the de-identified information without disclosing your personal information and that we have the right to analyse and commercially exploit the user database without sharing, transferring or publicly disclosing your personal information; the use of the de-identified information is not subject to further notice or consent.
+4.2 个人信息安全使用规则
 
-4.2.2 Please note that all personal information provided by you when using our services will continue to be licensed to us for the duration of your use of our services unless you delete it or refuse to allow us to collect it through system settings. After you voluntarily cancel your account, we will cease providing you with products or services and cease using your personal information as required by law. If you have uploaded content (photos, audio or video) to the OneCoin platform before you cancel your account, and you do not want the content to be distributed and used on the OneCoin platform, please delete it yourself; if you do not delete it, you agree to authorise the OneCoin platform to distribute it through information networks and other means. We will anonymise or desensitise your personal information when using the content.
+4.2.1 在收集您的个人信息后，我们将通过技术手段对数据进行去标识化处理，去标识化处理的信息将无法识别您个人。 请您了解并同意，我们有权使用已经去标识化的信息， 并在不透露您个人信息的前提下，我们有权对用户数据库进行分析并予以商业化的利用，这种行为不属于个人信息的对外共享、转让及公开披露行为； 对已经去标识化信息的使用无需另行通知您或征得您的同意。
 
-4.2.3 When we display your personal information, we will desensitise it to protect the security of your information, including by replacing it with content and anonymising it.
+4.2.2 请您注意，您在使用我们的服务时所提供的所有个人信息，除非您删除或通过系统设置拒绝我们收集，否则将在您使用我们服务期间持续授权我们使用。 在您主动注销账号之后，我们将停止为您提供产品或服务，并根据法律规定停止使用您的个人信息。您在注销账号之前，如曾经在OneCoin平台上传内容（照片、音视频等）， 您不希望上述内容在OneCoin平台继续传播使用等，请您自行删除；如您未进行删除，则视为您同意授权OneCoin平台通过信息网络等途径进行传播使用， 我们会在传播使用上述内容时将您的个人信息做匿名化或脱敏处理。
 
-4.2.4 Where we wish to use your personal information for purposes other than those set out in this policy, or where information collected for a specific purpose is used for other purposes, we will seek your prior consent through your voluntary tick box.
+4.2.3 当我们展示您的个人信息时，我们会采用包括内容替换、匿名处理方式对您的信息进行脱敏，以保护您的信息安全。
 
-## V. How we share, transfer and publicly disclose your personal information
+4.2.4 当我们要将您的个人信息用于本政策未载明的其它用途时，或基于特定目的收集而来的信息用于其他目的时， 会通过您主动做出勾选的形式事先征求您的同意。
 
-5.1 Sharing
-We will only collect and use your personal information for the purposes and within the scope of this policy or as required by law or regulation, and will keep your personal information strictly confidential unless one or more of the following circumstances apply:
+### 五、我们如何共享、转让、公开披露您的个人信息
 
-5.1.1 We have your prior consent or authorisation or you choose to share it.
+5.1 共享
+您的个人信息是我们为您提供产品及/或服务的重要依据和组成部分，对于您的个人信息，我们仅在本政策目的和范围内，或根据法律法规的要求收集和使用， 并将对您的个人信息严格保密，除非存在以下一种或多种情形的，我们不会与第三方及/或个人共享您的个人信息:
 
-5.1.2 Where required by law or regulation or by administrative or judicial authorities.
+5.1.1 事先获得您的同意或授权或您主动选择进行共享。
 
-5.1.3 To share your personal information with OneCoin's affiliates. We will only share personal information that is necessary and subject to the purposes stated in this policy, and will seek your authorised consent again if we share your personally sensitive information or if our affiliates change the purposes for which personal information is used and processed.
+5.1.2 根据法律法规的规定或行政或司法机构的要求。
 
-5.1.4 Sharing of your personal information to authorised partners. You understand and agree that we may need to share your personal information with authorised partners in order to carry out our business as necessary/reasonable and to meet your needs/requests and to fulfil our obligations under the relevant User Agreement or this Policy. However, we will require our authorised partners to process such information for us in accordance with our instructions and in compliance with this policy and any other appropriate confidentiality and security measures. We will only share your personal information for lawful, legitimate, necessary, specific and explicit purposes and authorised partners will only have access to the information they need to carry out their duties and will not use the personal information shared for any other purpose. At present, our authorised partners are mainly of the following types.
-(1) Third party merchants: We may share your order information and transaction-related information with third party merchants in order to help you make a purchase of a product or service or to provide you with services such as after-sales visits.
-(2) Service providers: For example, payment institutions, third party logistics companies, customer service system providers, etc. that provide payment services to you. We may share your relevant information, such as order information, baby's age, baby's gender, contact number, etc., with service providers who provide such services in order to smoothly achieve the purpose of your purchase of products or services or to provide you with services such as after-sales callbacks.
-(3) Data service providers: e.g. partners for data statistics/analysis, online advertising monitoring. To maintain/improve our products/services and to provide you with better quality products/services, we may share your relevant information such as device model, baby's age, baby's name, ad broadcast history, mobile phone number, etc. with the partners providing such services. Other business partners: for example, partners who work with us to provide you with special offers, we may share information about you, such as baby nickname, baby's age, contact number, etc., with the partner providing the service in order for you to receive the relevant coupons or take advantage of the special offer scheme, but we will obtain your consent in advance.
+5.1.3 向OneCoin的关联方分享您的个人信息。我们只会共享必要的个人信息，且受本政策中所声明目的的约束， 如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。
 
-5.1.5 Assistance with disputes. If you are an eligible IPR complainant and have filed a complaint, you will disclose it to the Respondent at the Respondent's request so that the parties can deal with a possible dispute over your rights. Only share your information in order to provide the services you need or to deal with disputes or disagreements you have with others. The OneCoin platform will only be liable where expressly required by law to do so. 5.1.6 If you do not provide the necessary information to the other party to the transaction or to resolve the dispute, the OneCoin Platform will only be liable to you if expressly provided for by law.
+5.1.4 向授权合作伙伴共享您的个人信息。 您理解并同意，为了必要/合理的业务的顺利开展，及满足您的需求/要求、履行我们在相关用户协议或本政策中的义务，我们可能会需要与授权合作伙伴共享您的个人信息。 但我们会要求授权合作伙伴按照我们的指示并遵循本政策以及其他任何相应的保密和安全措施来为我们处理这些信息。 我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，授权合作伙伴只能接触到为其履行职责所需信息， 且不能将此共享的个人信息用于任何其他目的。目前， 我们的授权合作伙伴主要包括以下类型：
+（1）第三方商家：为帮助您实现产品或服务的购买或为您提供售后回访等服务，我们会与第三方商家共享您的订单信息和交易相关信息。
+（2）服务供应商：例如为您提供支付服务的支付机构、第三方物流公司、客服系统服务商等。为顺利实现您购买产品或服务的目的或为您提供售后回访等服务， 我们可能会与提供该服务的服务供应商共享您的相关信息，例如订单信息、宝宝年龄、宝宝性别、联系电话等。
+（3）数据服务供应商：例如数据统计/分析、网络广告监测的合作伙伴。为维护/改进我们的产品/服务、为您提供更好的产品/服务质量，我们可能会与提供该服务的合作伙伴共享您的相关信息， 例如设备型号、宝宝年龄、宝宝名字、广告播放记录、手机号码等。 其它业务合作伙伴：例如与我们合作共同为您提供优惠活动的合作伙伴，为了您能够获取相应优惠券或享受该优惠计划，我们可能会与提供该服务的合作伙伴共享您的相关信息， 例如宝宝昵称、宝宝年龄、联系电话等，但会事先取得您的同意。
 
-5.1.6 You are required to disclose to a third party if you have violated any relevant Chinese laws or regulations or relevant OneCoin agreements or related rules.
+5.1.5 协助处理争议。 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷。只有共享您的信息， 才能提供您需要的服务，或处理您与他人的纠纷或争议。例如您在OneCoin上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的， OneCoin会视情况向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。OneCoin平台仅在法律有明确规定的情况下承担相应的法律责任。
 
-5.1.7 Where sharing is based on reasonable commercial practice, such as when we share joint marketing with a third party where you are the winner/winner, we may share your personal information with the third party so that you can successfully claim your prize. To protect the legitimate interests of OneCoin and its affiliates or users.
+5.1.6 如您出现违反中国有关法律、法规或者OneCoin相关协议或相关规则的情况，需要向第三方披露。
 
-5.1.8 We may use the personal information we collect, after anonymisation, for big data analysis, such as heat maps, insight reports etc. that do not contain any personal information. We may disclose and share statistically processed non-identifiable information with our partners for the purpose of understanding how users use our services or to inform the public about general trends in the use of our services.
+5.1.7 基于合理商业习惯而共享的， 如我们与第三方共享联合营销时，您作为中奖/获胜者的， 我们可能会向第三方共享您的个人信息，以便您能够顺利领取您的奖励。为维护OneCoin及其关联方或用户的合法权益。
 
-5.2 Transfers
-We will not transfer your personal information to any company, organisation or individual, except
-(1) With your prior express consent or authorisation.
-(2) Provided in accordance with applicable laws and regulations, requirements of legal proceedings, mandatory administrative or judicial requirements as may be necessary.
-(3) Provided in accordance with the relevant agreement signed with you (including the electronic agreement signed online and the corresponding platform rules) or other legal documents.
-(4) In the event of a merger, acquisition, transfer of assets or similar transaction involving the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this policy, or we will require that company or organization to seek your authorized consent again.
+5.1.8 我们可能会将所收集到的个人信息在进行匿名化处理后用于大数据分析， 如形成不包含任何个人信息的热力图、洞察报告等。我们可能对外公开并与我们的合作伙伴分享经统计加工后不含身份识别内容的信息， 用于了解用户如何使用我们服务或让公众了解我们服务的总体使用趋势。
 
-5.3 Public Disclosure
-Public disclosure is the act of releasing information to the public or to an unspecified group of people. We will only disclose your personal information publicly if we take security measures that meet industry standards and.
-(1) To disclose personal information specified by you in accordance with your request and in a manner that you have expressly agreed to be disclosed.
-(2) Where we are required to provide your personal information by law, regulation, mandatory administrative enforcement or judicial request, we may publicly disclose your personal information in accordance with the type of personal information requested and the manner of disclosure. When we receive such a request for disclosure of information, we may request that a legal document, such as a subpoena or letter of inquiry, be issued in response to the request, subject to compliance with laws and regulations. We strongly believe in being as transparent as possible about the information we are asked to provide, to the extent permitted by law. All requests are carefully reviewed to ensure that they have a legal basis and are limited to data that law enforcement authorities have a legal right to obtain for specific investigative purposes. Where permitted by law or regulation, the documents we disclose are protected by encryption keys.
+5.2 转让
+我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：
+（1）事先获得您明确的同意或授权；
+（2）根据适用的法律法规、法律程序的要求、强制性的行政或司法要求所必须的情况进行提供；
+（3）符合与您签署的相关协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定所提供；
+（4）在涉及合并、收购、资产转让或类似的交易时，如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受本政策的约束，否则,我们将要求该公司、组织重新向您征求授权同意。
 
-5.4 Exceptions to prior authorised consent for the sharing, transfer and public disclosure of personal information
-Your prior authorised consent is not required for the sharing, transfer or public disclosure of your personal information in the following cases.
-(1) in connection with national security or national defence security
-(2) in connection with public safety, public health, or vital public interest
-(3) in connection with the investigation, prosecution, trial and execution of judgments for crimes, etc.
-(4) For the purpose of safeguarding your or other individuals' significant legitimate rights and interests, such as life and property, but where it is difficult to obtain your consent
-(5) Personal information that you disclose to the public at your own discretion.
-(6) Personal information collected from information that is lawfully and publicly disclosed, such as lawful news reports, government information disclosure and other channels.
+5.3 公开披露
+公开披露是指向社会或不特定人群发布信息的行为。 我们仅会在下列情况，且采取符合业界标准的安全防护措施的前提下，才会公开披露您的个人信息：
+（1）根据您的需求，在您明确同意的披露方式下披露您所指定的个人信息；
+（2）根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您个人信息的情况下，我们可能会依据所要求的个人信息类型和披露方式公开披露您的个人信息。 在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求必须出具与之相应的法律文件，如传票或调查函。我们坚信，对于要求我们提供的信息， 应该在法律允许的范围内尽可能保持透明。我们对所有的请求都进行了慎重的审查，以确保其具备合法依据，且仅限于执法部门因特定调查目的且有合法权利获取的数据。在法律法规许可的前提下，我们披露的文件均在加密密钥的保护之下。
 
-If you do not agree with us providing your personal information to third parties in accordance with the above terms, please stop using the OneCoin platform services immediately.
+5.4 共享、转让、公开披露个人信息时事先征得授权同意的例外
+以下情形中，共享、转让、公开披露您的个人信息无需事先征得您的授权同意：
+（1）与国家安全、国防安全有关的；
+（2）与公共安全、公共卫生、重大公共利益有关的；
+（3）与犯罪侦查、起诉、审判和判决执行等有关的；
+（4）出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
+（5）您自行向社会公众公开的个人信息；
+（6）从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。
 
-## VI. How we use cookies, beacons and similar technologies
+如您不同意我们按照上述条款向第三方提供您的个人信息，请您立即停止使用OneCoin平台服务。
 
-6.1 To make your access experience easier, when you visit OneCoin Platform related websites or use services provided by the OneCoin Platform, we may identify you by small data files, which may be cookies, Flash cookies, or other local storage provided by your browser or associated applications (collectively "cookies"). This is done to save you from having to repeatedly enter your registration information, to store your shopping preferences, to help you optimize your choices and interactions with advertisements, to help determine your login status and account or data security.
+### 六、我们如何使用Cookie、Beacon和同类技术
 
-6.2 Please understand that some of our services are only available through the use of "cookies". You may modify your acceptance of cookies or refuse OneCoin cookies if your browser or browser add-on allows you to do so, but this may in some cases affect your ability to access the OneCoin Platform related websites and use the services offered by the OneCoin Platform safely.
+6.1 为使您获得更轻松的访问体验，您访问OneCoin平台相关网站或使用OneCoin平台提供的服务时，我们可能会通过小型数据文件识别您的身份，这些数据文件可能是Cookie，Flash Cookie，或您的浏览器或关联应用程序提供的其他本地存储（统称“Cookie”）。 这么做是帮您省去重复输入注册信息的步骤，存储您的购物偏好设置、帮助您优化对广告的选择与互动、帮助判断您的登录状态以及账户或数据安全。
 
-6.3 Web pages often contain electronic images (known as "single pixel" GIF files or "web beacons") which can be used to help websites count the users who view the pages or access certain cookies, and we may use web beacons to collect information about your web browsing activity, such as the address of the page you visited, the address of the referring page you previously visited, the time you spent on the page, the time you spent on the page, the time you spent on the page, and the time you spent on the page. the time you spend on the page, your browsing environment and display settings.
+6.2 请您理解，我们的某些服务只能通过使用“Cookie”才可得到实现。如果您的浏览器或浏览器附加服务允许，您可以修改对Cookie的接受程度或者拒绝OneCoin的Cookie， 但这一举动在某些情况下可能会影响您安全访问OneCoin平台相关网站和使用OneCoin平台提供的服务。
 
-6.4 While we use cookies and web beacons for the above purposes, we may provide the non-personally identifiable information collected through cookies and web beacons to advertisers or other partners for the purpose of analysing how users use our services or evaluating the effectiveness of advertising services in order to optimise the services we provide to you, or to send you send you advertisements that may be of interest to you. Our products and services may also contain cookies and web beacons placed by advertisers and other partners, which may collect non-personally identifiable information about you for the purpose of monitoring and evaluating the effectiveness of advertising services. The collection and use of such information by these third party cookies and web beacons is not governed by this policy, but by the third party's own privacy policy.
+6.3 网页上常会包含一些电子图象（称为"单像素" GIF 文件或 "网络 Beacon"），使用网络Beacon可以帮助网站计算浏览网页的用户或访问某些Cookie， 我们会通过网络Beacon收集您浏览网页活动的信息，例如您访问的页面地址、您先前访问的援引页面的位址、您停留在页面的时间、您的浏览环境以及显示设定等。
 
-6.5 We will not use cookies for any purpose other than that described in this policy. You can refuse or manage cookies or web beacons through your browser settings. However, please note that if cookies or web beacons are deactivated, you may not be able to enjoy the best experience with the service and some services may not work properly.
+6.4 我们为上述目的使用Cookies和网络Beacon的同时，我们可能将通过Cookies和网络Beacon收集的非个人可识别信息，经统计加工后提供给广告商或其他合作方，用于分析用户如何使用我们的服务，或评估广告服务的效果， 以优化我们向您提供的服务，或向您发送您可能感兴趣的广告。我们的产品和服务上也可能会有广告商和其他合作方放置的Cookies和网络Beacon。这些Cookies和网络Beacon可能会收集与您相关的非个人可识别信息， 以用于监测、评估广告服务效果。这些第三方Cookies和网络Beacon收集和使用该等信息不受本政策约束，而是受该第三方自身的隐私政策约束。
 
-## VII. How we store your personal information
+6.5 我们不会将 Cookies 用于本政策所述目的之外的任何用途。您可以通过浏览器设置拒绝或管理Cookies或网络 Beacon。 但请注意， 如果停用Cookies或网络 Beacon，您有可能无法享受最佳的服务体验，某些服务也可能无法正常使用。
 
-7.1 Where we store information In principle, the personal information we collect and generate in the People's Republic of China will be stored in the People's Republic of China. The information and data we collect about you will be stored on the servers of OneCoin and/or third party companies and may be transferred to, accessed, stored and displayed in the country or region where you use the product or service or where OneCoin collects the information and data.
+### 七、我们如何存储您的个人信息
 
-We will only retain your personal information for as long as is necessary to achieve the purposes set out in this policy, unless you voluntarily delete or cancel your account or unless otherwise required by law or regulation; after your personal information has been retained beyond the retention period, we will delete or anonymise your personal information as required by applicable law.
+7.1 信息存储地点 原则上，我们在中华人民共和国境内收集和产生的个人信息将存储在中华人民共和国境内。 我们收集的有关您的信息和资料将保存在OneCoin及（或）第三方公司的服务器上， 这些信息和资料可能传送至您使用产品或服务所在国家、 地区或OneCoin收集信息和资料所在地并在该地被访问、存储和展示。
 
-## VIII. How we manage and protect your personal information
+7.2 信息存储期限 我们只会在达成本政策所述目的所需的期限内保留您的个人信息，但您主动删除、注销账户或法律法规另有规定的除外； 在您的个人信息超出保留期限后，我们会根据适用法律的要求删除您的个人信息，或使其匿名化处理。
 
-8.1 How we manage your personal information
+### 八、我们如何管理与保护您的个人信息
 
-8.1.1 Access to your personal information
-You have the right to access/inquire about your personal information, subject to any exceptions provided by law or regulation. If you wish to exercise your right of data access, you can do so yourself by.
-(1) With respect to account information, if you wish to access or edit your profile information and payment information in your account, change your password, add security information or close your account, you may do so by visiting the OneCoin website pages.
-(2) With respect to browsing and search information, you may access or clear your search history, view and modify interests and manage other data on the OneCoin Platform.
+8.1 我们如何管理您的个人信息
 
-8.1.2 Correcting or supplementing your personal information
-Where you discover an error in the personal information we process about you, you have the right to request that we make corrections or additions. You may also make a request to correct or supplement your personal information on the OneCoin Platform.
+8.1.1 查询/访问您的个人信息
+您有权查询/访问您的个人信息，法律法规规定的例外情况除外。如果您想行使数据访问权，可以通过以下方式自行访问：
+（1）关于账户信息，如果您希望访问或编辑您的账户中的个人资料信息和支付信息、更改您的密码、添加安全信息或关闭您的账户等，您可以通过访问OneCoin网站网页执行此类操作。
+（2）关于浏览和搜索信息，您可以在OneCoin平台访问或清除您的搜索历史记录、查看和修改兴趣以及管理其他数据。
 
-8.1.3 Deleting your personal information
-You may delete some of your personal information through the OneCoin Platform. You may make a request to us to delete your personal information in the following circumstances.
-(1) You will no longer use our products or services and will voluntarily cancel your account.
-(2) You find that our handling of personal information violates relevant laws and regulations.
-(3) You find that we have collected and used your personal information in serious breach of our agreement with you and without your express consent.
-(4) We will no longer provide products or services to you.
-If your request for deletion is accepted by us, we will, as far as possible, notify the third party subject who has been authorised by you to agree to receive your personal information from us and request its deletion (unless the third party has been separately authorised by you or is otherwise required by law or regulation) at the same time as we process your request for deletion.
-We may not be able to delete the corresponding information immediately due to technical security issues or as otherwise required by law or regulation, and we will store your personal information securely until it can be anonymised or deleted in accordance with the relevant laws and regulations.
+8.1.2 更正或补充您的个人信息
+当您发现我们处理的关于您的个人信息有错误时，您有权要求我们做出更正或补充。您也可以在OneCoin平台中提出更正或补充个人信息的申请。
 
-8.1.4 Changing or withdrawing the scope of your authorised consent
-In addition to the basic personal information required to complete each business function, you may submit a request to change or withdraw your consent for the collection and use of additional personal information on the OneCoin platform (e.g. OneCoin Pregnancy App "Settings - Privacy - System Permissions"). Requests for changes or withdrawals that cannot be made on the platform can be processed by contacting Customer Service. If you withdraw your consent, we will no longer process the personal information and will no longer be able to provide you with the products or services to which you have withdrawn your consent. However, your decision to withdraw your authorisation will not affect the processing of personal information previously carried out on the basis of your authorisation.
+8.1.3删除您的个人信息
+您可以通过OneCoin平台删除您的部分个人信息。在以下情形中，您可以向我们提出删除个人信息的请求：
+（1）您将不再使用我们的产品或服务，并将主动注销您的账户；
+（2）您发现我们处理个人信息的行为违反相关法律法规；
+（3）您发现我们收集、使用您的个人信息严重违反了与您的约定，且未征得您的明确同意；
+（4）我们将不再为您提供产品或服务。
+若您的删除请求被我们接受，我们在处理您的删除请求的同时将尽可能通知经您授权同意从我们处获得您的个人信息的第三方主体，要求其及时删除 （第三方已获得您单独授权或法律法规另有规定的除外）。
+因为安全技术问题或法律法规另有规定，我们可能无法立即删除相应的信息，我们将安全地存储您的个人信息，直到可以实现匿名或按照相关法律法规规定删除。
 
-8.1.5 Cancellation of your account
-You may submit a request to cancel your account on the OneCoin Platform yourself
-After you have voluntarily cancelled your account, we will cease to provide you with products or services, delete or anonymise your personal information as required by relevant laws and regulations. Please understand that once you have cancelled your account, you will not be able to use any of the products or services provided by us and you will be deemed to have automatically waived your existing rights.
+8.1.4 改变或撤回您授权同意的范围
+每个业务功能需要一些基本的个人信息才能得以完成，除此之外，对于额外个人信息的收集和使用， 您可以在OneCoin平台上提交改变或撤回授权同意申请（例如，OneCoin孕育APP“设置-隐私-系统权限”），平台上无法操作的改变或撤回申请可以联系客服人员协助处理。当您撤回您的授权同意后，我们将不再处理相应的个人信息， 也无法再为您提供与上述撤回的授权同意相对应的产品或服务。 但您撤回授权同意的决定，不会影响此前基于您的授权同意而开展的个人信息处理。
 
-8.1.6 If you are unable to do so, you may contact our customer service at any time, but to protect the security of your information, you may need to make a written request to us or prove your identity by other reasonable means and we will respond to your request within 15 working days of verifying your identity (if required).
+8.1.5 注销账户
+您可以自行在OneCoin平台中提交账户注销申请
+在您主动注销账户之后，我们将停止为您提供产品或服务，根据相关法律法规的要求删除您的个人信息或匿名化处理。 请您理解，一旦您注销账户，您将无法使用我们提供的全部产品或服务，同时视为您自动放弃您的已有权益。
 
-8.2 How we protect your personal information
+8.1.6 如果您无法实现上述功能，您可以随时联系我们的客服，但为保障信息安全，您可能需要向我们提出书面请求， 或以其他合理方式证明您的身份，我们将在验证您的身份后（如需）15个工作日内回复您的请求。
 
-8.2.1 To protect the security of your information, we endeavour to take all reasonable physical, electronic and managerial security measures to protect your information from disclosure, destruction or loss, including, but not limited to, SSL, encrypted storage of information, and data centre access controls. We also have strict controls over employees or outsourced personnel who may have access to your information, including, but not limited to, access controls depending on their position, signing confidentiality agreements with them, monitoring their operations, etc. OneCoin will provide appropriate security measures to protect your information in accordance with available technology, providing reasonable security, and OneCoin will endeavour to ensure that your OneCoin will endeavour to ensure that your information is not compromised, destroyed or lost.
+8.2 我们如何保护您的个人信息
 
-OneCoin will ensure that your information is not lost, misused or altered through security measures such as backing up your account to other servers and encrypting your password. Notwithstanding the foregoing, please understand that there are no "perfect security measures" on the Information Network.
+8.2.1 为保障您的信息安全，我们努力采取各种合理的物理、电子和管理方面的安全措施来保护您的信息，使您的信息不会被泄漏、毁损或者丢失，包括但不限于SSL、信息加密存储、数据中心的访问控制。 我们对可能接触到您的信息的员工或外包人员也采取了严格管理，包括但不限于根据岗位的不同采取不同的权限控制，与他们签署保密协议，监控他们的操作情况等措施。OneCoin会按现有技术提供相应的安全措施来保护您的信息， 提供合理的安全保障，OneCoin将尽力做到使您的信息不被泄漏、毁损或丢失。
 
-8.2.3 When using the OneCoin Platform Services to conduct online transactions, it is inevitable that you will disclose your personal information, such as contact details or postal address, to counterparties or potential counterparties. You should protect your personal information and only provide it to others where necessary. If you discover that your personal information has been compromised, particularly your account and password, please contact OneCoin Customer Services immediately so that OneCoin can take appropriate action.
+8.2.2 您的账户均有安全保护功能，请妥善保管您的账户及密码信息。OneCoin将通过向其它服务器备份、对用户密码进行加密等安全措施确保您的信息不丢失， 不被滥用和变造。尽管有前述安全措施，但同时也请您理解在信息网络上不存在“完善的安全措施”。
 
-8.2.4 Please use complex passwords to help us keep your account secure. We will do our best to keep any information you send us secure.
+8.2.3 在使用OneCoin平台服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息， 如联络方式或者邮政地址。 请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是你的账户及密码发生泄露，请您立即联络OneCoin客服，以便OneCoin采取相应措施。
 
-## IX. How we handle personal information of minors
+8.2.4 请使用复杂密码， 协助我们保证您的账号安全。我们将尽力保障您发送给我们的任何信息的安全性。
 
-9.1 When you use OneCoin for content viewing, browsing, searching, uploading and other services, we presume that you have the appropriate civil capacity.
+### 九、我们如何处理未成年人的个人信息
 
-9.2 We value the protection of personal information of minors and if you are a minor, you should read this policy carefully with your guardian and should use our services or provide information to us with the consent of your guardian.
+9.1 在您使用OneCoin进行内容观看、浏览、搜索、上传等服务中，我们推定您有相应的民事行为能力。
 
-9.3 We protect the personal information of minors in accordance with relevant national laws and regulations and will only collect, use or publicly disclose the personal information of minors where permitted by law or regulation, where the guardian has expressly consented or where necessary to protect your rights and interests.
+9.2 我们重视未成年人的个人信息保护，如您为未成年人，您应与您的监护人仔细阅读本政策，并应在征得您的监护人同意的前提下使用我们的服务或向我们提供信息。
 
-9.4 If you are the guardian of a minor, if you have any questions about the personal information of a minor in your care, please contact us using the contact details set out in this policy under "How to contact us".
+9.3 我们根据国家相关法律法规的规定保护未成年人的个人信息，只会在法律法规允许、监护人明确同意或保护您的权益所必要的情况下收集、使用或公开披露未成年人的个人信息。
 
-## X. Amendments and updates to this policy
+9.4 若您是未成年人的监护人，当您对您所监护的未成年人的个人信息有相关疑问时，请通过本政策中 “如何联系我们”明示的联系方式与我们联系。
 
-10.1 We may amend this policy from time to time and such amendments form part of this policy. We will post any changes to this Policy on this page or by other means we consider appropriate (including posting on the OneCoin Platform or sending you an email or even providing you with a pop-up alert). By continuing to use our products and/or services, you agree to be bound by this policy as amended. We encourage you to review our Privacy Policy before each use of our products and/or services.
+### 十、本政策的修订和更新
 
-10.2 We will also provide more prominent notice of material changes (including notice through our Platform postings or even pop-ups to you). Such material changes include, but are not limited to.
-(1) Significant changes to our service model. such as the purposes for which personal information is processed, the types of personal information processed, how personal information is used, etc.
-(2) Significant changes in our control, etc. such as a change in ownership resulting from mergers, acquisitions, reorganizations, etc.
-(3) A change in the primary recipients of personal information shared, transferred or publicly disclosed.
-(4) Significant changes in your rights to participate in the processing of personal information and how they are exercised.
-(5) When there is a change in the department responsible for handling the security of personal information, our contact information and complaint channels
-(6) When a personal information security impact assessment report indicates that there is a high risk.
+10.1 我们可能对本政策进行不时修订，该等修订构成本政策的一部分。我们会在本页面上或通过其他我们认为适当的方式（包括OneCoin平台公示或向您发送电子邮件甚至向您提供弹窗提示）发布对本政策所做的任何变更。 若您继续使用我们的产品及/或服务，即表示您同意受修订后的本政策的约束。 我们鼓励您在每次使用我们的产品及/或服务前都查阅我们的隐私政策。
+
+10.2 对于重大变更，我们还会提供更为显著的通知（包括我们会通过我方平台公示的方式进行通知甚至向您提供弹窗提示）。前述重大变更包括但不限于：
+（1）我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；
+（2）我们在控制权等方面发生重大变化。如并购重组等引起的所有者变更等；
+（3）个人信息共享、转让或公开披露的主要对象发生变化；
+（4）您参与个人信息处理方面的权利及其行使方式发生重大变化；
+（5）我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；
+（6）个人信息安全影响评估报告表明存在高风险时。
+

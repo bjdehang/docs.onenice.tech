@@ -1,78 +1,72 @@
-# User Service Agreement
+## OneCoin用户服务协议
 
-This is a legal agreement between you (as an individual or as a single entity) and Beijing OneNice Science and Technology Co. Ltd.
+本协议是您（个人或单一实体）与成都再创再作科技有限公司之间关于您使用可在IOS系统中运行的名为“OneCoin”的应用程序的法律协议。
 
-OneCoin hereby reminds you that in order to use the OneCoin application, you must carefully read the terms of this agreement in advance, including the disclaimers and limitations on the user's rights that exclude or limit OneCoin's liability. Please review and accept or reject these Terms of Service (minors should be accompanied by a legal guardian when reviewing them, and the exercise and performance of a minor's rights and obligations under this Agreement is deemed to have been approved by the legal guardian). If you do not agree to these Terms of Service and/or any changes made to them by OneCoin from time to time, you shall not use or voluntarily cancel the services provided by OneCoin. Otherwise, any logging, recording, payment, downloading, viewing, etc. of your use of the Application will be deemed to be your acceptance of the TOS in its entirety, including any modifications to the TOS that OneCoin may make from time to time.
+OneCoin在此特别提醒，用户（您）欲使用OneCoin应用程序，必须事先认真阅读本协议中各条款，包括免除或者限制OneCoin责任的免责条款及对用户的权利限制。请您审阅并接受或不接受本服务条款（未成年人审阅时应得到法定监护人的陪同，未成年人行使和履行本协议项下的权利和义务视为已获得了法定监护人的认可）。如您不同意本服务条款及/或OneCoin随时对其的修改，您应不使用或主动取消OneCoin提供的服务。否则，您的任何关于应用程序的登陆、记录、支付、下载、查看等使用行为将被视为您对本服务条款全部的接受，包括接受OneCoin对条款随时所做的任何修改。
 
-If you choose to accept these terms and conditions by opening an account on the OneCoin application, you agree to be bound by the terms and conditions of the agreement. If you do not agree to these Terms of Service, you will not be granted access to the Application. OneCoin reserves the right to suspend or terminate your access to the application at any time for any breach of these terms and conditions and reserves the right to pursue legal action.
+如果您选择接受本条款，开通OneCoin应用程序账号，即表示您同意接受协议各项条件的约束。如果您不同意本服务条款，则不能获得使用本应用程序的权利。您若有违反本条款规定，OneCoin有权随时中止或终止您应用程序的使用资格并保留追究相关法律责任的权利。
 
-## I.	Declaration of Intellectual Property Rights
 
-1.1 The ownership and intellectual property rights of the Software are owned by Beijing OneNice Science and Technology Co. Ltd. (hereinafter referred to as the "Company" or " OneNice Technology"). The copyright, trademark, intellectual property rights and ownership of the information content (including but not limited to text, images, photographs, trademarks, logos, diagrams and data) provided by the Software are protected by the Copyright Law of the People's Republic of China, the Trademark Law of the People's Republic of China, the Patent Law of the People's Republic of China and other relevant laws, regulations and international treaties, and OneCoin shall enjoy the corresponding copyright, trademark, intellectual property rights and ownership rights in accordance with the law. copyright, trademark rights, intellectual property rights and ownership rights in accordance with the law.
+### 一、知识产权声明
 
-1.2 Without the written authorisation of the Company, the User shall not use, transfer or create derivative products related to the Software for any purpose, and the Company reserves the right to resort to legal action against the aforementioned unauthorised acts.
+1.1 本软件的所有权及知识产权为成都再创再作科技有限公司（以下简称“公司”或“好个科技”）所有。本软件提供信息内容（包括不限于文字，图片，照片，商标，标识，图表，数据）等版权、商标权、知识产权和所有权，均受《中华人民共和国著作权法》、《中华人民共和国商标法》、《中华人民共和国专利法》等有关法律、法规、国际条约的保护，OneCoin公司依法享有相应的版权、商标权、知识产权和所有权。
 
-## II.	The use of rules
+1.2 未经本公司书面授权同意，用户不得以任何目的擅自使用、转让或创造与本软件相关衍生产品，公司将保留对上述未经许可行为诉诸法律的权利的。
 
-2.1 The ownership of the account registered by the user in the Software belongs to Good Technology Company, and the user will obtain the corresponding right of use after completing the registration, and the right of use belongs to the initial applicant only. At the same time, the initial applicant may not give, borrow, rent, transfer or sell the account or otherwise allow non-initial applicants to use the account. The user shall comply with the laws and regulations of the People's Republic of China and shall bear all legal responsibilities that may arise directly or indirectly from the activities, language and events published by the user itself.
 
-2.2	The user shall be responsible for the safekeeping of the account password and shall provide the true associated information. If the account password is lost, the Software shall give recovery in accordance with the information provided by the user. The Company shall not be liable for any loss or damage caused by hacking, or illegal use of the user's data account.
+### 二、使用规则
 
-2.3 Users shall comply with relevant national laws, regulations and policies when using the Software, in accordance with the following principles.
+2.1 用户在本软件申请注册的账号的所有权归 好个科技 公司所有，用户完成注册后获得相应的使用权，且该使用权仅属于初始申请人。同时，初始申请注册人不得赠与、借用、租用、转让或售卖账号或者以其他方式许可非初始申请注册人使用账号。用户应遵守中华人民共和国法律、法规，自行承担一切可能因用户自身发布的活动、语言及事件，直接或间接引起的法律责任。
 
-2.3.1 Compliance with relevant Chinese laws and regulations.
+2.2 用户应自行承担账号密码的保管责任，并提供真实关联信息，账户密码丢失后，本软件依照用户提供信息给予找回。若因黑客行为，或用户数据账号被非法使用，本公司不承担任何责任。
 
-2.3.2 to comply with all network agreements, regulations and procedures relating to the network services.
+2.3 用户在使用本软件时应遵守国家有关法律、法规和政策，原则如下：
 
-2.3.3 not to use the network service system for any unlawful purpose
+2.3.1 遵守中国有关的法律和法规；
 
-2.3.4 not to use the Software Network Service System to transmit any false, harassing, abusive, threatening, vulgar, obscene or any other unlawful information material.
+2.3.2 遵守所有与网络服务有关的网络协议、规定和程序；
 
-2.3.5 It is strictly forbidden to disrupt the public order of the community and other acts that infringe upon the interests of the community.
+2.3.3 不得为任何非法目的而使用网络服务系统；
 
-2.3.6 the publication of content containing content for sales or other commercial purposes, including personal advertising messages, without permission is prohibited 
+2.3.4 不得利用本软件网络服务系统传输任何虚假的、骚扰性的、辱骂性的、恐吓性的、庸俗淫秽的或其他任何非法的信息资料；
 
-2.3.7 If any illegal or irregular use of a user account or any security breach of an account is discovered, the administrator should be informed immediately. 
-2.4 If a User does not log in for a long period of time after registering an account, OneCoin reserves the right to recall the account to avoid wasting resources, and any losses arising therefrom shall be borne by the User. 
+2.3.5 严禁破坏社区公共秩序及侵害社区利益的其它行为。
 
-2.5 The copyright of all original text and images posted by the User on the Software belongs to the User, but the Company has the right to redistribute, reproduce, use and disseminate the aforementioned information. 
+2.3.6 禁止未经允许发表含销售目的或其他商业目的内容，包括个人广告信息； 
 
-2.6 Users who wish to unbind their mobile phone numbers and cancel their accounts may do so by accessing the [Binding Mobile Phone Numbers] function in the [My] channel [Modify Personal Information].
+2.3.7 如发现任何非法、违规使用的用户账号或账号出现安全漏洞的情况，应立即通告管理员。 
+2.4 用户注册账号后若长期不登入，OneCoin公司有权回收该账号，以免造成资源浪费，由此带来的任何损失均由用户自行承担。 
 
-## III.	Disclaimers 
+2.5 用户在本软件上发布的所有原创文字、图片等著作权归用户所有，但公司享有转发、复制、使用、传播前述信息的权利。 
 
-3.1 The content of the information published in the Software is for information purposes only. No liability is accepted by the user or any person for any direct, indirect, incidental, special, punitive or exemplary damages arising out of the use or failure to use the Software. (including but not limited to loss of personal health, maternal and fetal health). 
+2.6 用户如需解除手机号码绑定并注销账号，可在［我的］频道［修改个人信息］中进入［绑定手机号］功能，解除绑定并注销账号。 
 
-3.2 The content published or reproduced by the User in the Software, the content of which represents only the author's own views and has nothing to do with the Company's position, does not mean that the Software agrees with its views and its authenticity, reasonableness and legality, and the Company does not assume any legal joint and several responsibility. Users shall assume full responsibility for any information they publish in accordance with the law. 
+### 三、免责声明 
+3.1 本软件内发布的信息内容，仅供参考之用。不承担用户或任何人士就使用或未能使用本软件产生的，任何直接、间接、附带、偶然、特殊、恁罚性或恁戒性的损害风险。(包括但不限于个人健康、孕妇和胎儿健康带来的损失)。 
 
-3.3 Any entity or individual who believes that part of the content of the Software infringes your legitimate rights and interests should promptly submit a written notice of rights to the Company and provide proof of identity, proof of ownership, specific links, and detailed proof of infringement. Upon receipt of the above documents and materials, the Company will remove the relevant allegedly infringing content as soon as possible in accordance with the law. 
+3.2 本软件中用户自行发布、转载的内容，内容仅代表作者本人的观点，与本公司立场无关，不表示本软件同意其观点及真实性、合理性、合法性，公司不承担任何法律连带责任。用户应依法对其发布的任何信息承担全部责任。 
 
-3.4 In the event of service interruption, data loss and other losses and risks that may be caused by force majeure factors (viruses, Trojan horses, hacker attacks, system instability, third party service defects, governmental actions), the Company undertakes to cooperate with the relevant units within the first time to promptly deal with the repair, but the Company shall not be responsible for any losses suffered by the user as a result. 
+3.3 任何单位或个人认为本软件中的部分内容侵害您合法权益的，应该及时向本公司提出书面权利通知，并提供身份证明、权属证明、具体链接、及详细侵权情况证明。本公司在收到上述文件材料后，将会依法尽快移除相关涉嫌侵权的内容。 
 
-3.5 The content of the Software contains user-generated content, the Software has the right to monitor and control user-generated information, effectively exclude illegal content, and exclude users who generate malicious behavior; due to the user does not comply with the Service and Privacy Agreement and the content generated, photos and other related information loss, the user should bear the relevant responsibility, and the Company, the Software has nothing to do. 
+3.4 因不可抗力因素（病毒、木马、黑客攻击、系统不稳定、第三方服务瑕疵、政府行为）等原因可能导致的服务中断，数据丢失以及其他的损失和风险的，本公司承诺在第一时间内与相关单位配合，及时处理进行修复，但用户因此而遭受的一切损失，本公司不承担责任。 
+3.5 本软件内容含用户自行产生内容，本软件有权对用户产生信息进行监管和防控，有效排除非法内容，和对产生恶意行为用户进行排除；由于用户不遵循本服务与隐私协议而产生的内容，照片等相关信息受到损失的，用户应该自行承担相关责任，和本公司、本软件无关。 
 
-3.6 The User acknowledges and understands that the operation of the Software will utilize the processor and bandwidth of the User's terminal device. The user is responsible for obtaining the relevant tariff information from the operator and should bear the relevant costs.
+3.6 用户确认并知晓，本软件的运行过程中会利用到用户的终端设备的处理器和带宽等资源。本软件使用过程中可能产生数据流量的费用，用户需自行向运营商了解相关资费信息，并自行承担相关费用。 
 
-## IV.	Updates to the Software 
+### 四、软件的更新 
+4.1 为了改善用户体验、完善服务内容，公司将不断努力开发新的服务，并为用户不时提供软件更新（这些更新可能会采取软件替换、修改、功能强化、版本升级等形式）。 
+4.2 为了保证本软件及提供的服务的安全性和功能的一致性，公司有权不经向用户特别通知而对软件进行更新，或者对软件的部分功能效果进行改变或限制。 
+4.3 本软件新版本发布后，旧版本的软件可能无法使用。公司不保证旧版本软件继续可用及相应的客户服务，请用户随时核对并下载最新版本。 
 
-4.1 In order to improve the user experience and the content of the Services, the Company will constantly strive to develop new services and provide users with updates to the Software from time to time (these updates may take the form of software replacements, modifications, functional enhancements, version upgrades, etc.). 
+### 五、终止服务 
+5.1 本软件可随时根据实际情况终止服务。公司不需对任何个人或第三方负责而随时终止服务。 
+5.2 本软件保留随时修改或中断服务而不需通知用户的权利。用户接受本软件行使修改或中断服务的权利，公司不需对用户或第三方负责。 
 
-4.2 In order to ensure the security and functional consistency of the Software and the Services provided, the Company reserves the right to update the Software without special notice to the User or to change or restrict the effect of some features of the Software. 
+### 六、其他 
+6.1 您使用本软件即视为您已阅读并同意受本协议的约束。本协议的版权由OneCoin公司所有，OneCoin公司保留一切解释和修改权利。公司有权在必要时修改更新本协议。本协议修改更新后，若您继续使用本软件，即视为您已接受修改后的协议，若您不接受修改更新后协议，应停止使用本软件。 
 
-4.3 When a new version of the Software is released, older versions of the Software may not be available. The Company does not guarantee the continued availability of older versions of the Software and the corresponding customer service. Users are requested to check and download the latest version at any time. 
+6.2 本协议签订地为中华人民共和国北京市海淀区。 
 
-## V.	Termination of Service 
+6.3 若您和OneCoin公司发生任何纠纷或争议，应友好协商解决，协商不成，您同意将纠纷或争议提交至本协议签订地有管辖权的人民法院管辖。
 
-5.1 The Software may be terminated at any time depending on the actual circumstances. The Company shall not be liable to any person or third party for any termination of service at any time. 
-
-5.2	The Software reserves the right to modify or discontinue the Services at any time without notice to the User. The Company shall not be liable to the User or to any third party for the User's acceptance of the Software's exercise of the right to modify or discontinue the Service. 
-
-## VI.	Other 
-
-6.1 By using the Software, you are deemed to have read and agreed to be bound by this Agreement. The copyright in this Agreement is owned by OneCoin and OneCoin reserves all rights to interpret and amend it. OneCoin reserves the right to revise and update this Agreement as necessary. If you continue to use the Software after this Agreement has been revised and updated, you are deemed to have accepted the revised Agreement, and if you do not accept the revised and updated Agreement, you should stop using the Software. 
-
-6.2 This Agreement is entered into in Haidian District, Beijing, People's Republic of China. 
-
-6.3 If any dispute or controversy arises between you and OneCoin, it shall be settled by friendly negotiation. If negotiation fails, you agree to submit the dispute or controversy to the jurisdiction of the competent people's court in the place where this Agreement is entered into.
-
-Beijing OneNice Science and Technology Co. Ltd.
+成都再创再作科技有限公司

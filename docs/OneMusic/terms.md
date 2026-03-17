@@ -1,6 +1,6 @@
 # User Service Agreement
 
-This is a legal agreement between you (as an individual or as a single entity) and Beijing OneNice Science and Technology Co. Ltd.
+This is a legal agreement between you (as an individual or as a single entity) and Chengdu Reinvent Technology Co., Ltd.
 
 OneMusic hereby reminds you that in order to use the OneMusic application, you must carefully read the terms of this agreement in advance, including the disclaimers and limitations on the user's rights that exclude or limit OneMusic's liability. Please review and accept or reject these Terms of Service (minors should be accompanied by a legal guardian when reviewing them, and the exercise and performance of a minor's rights and obligations under this Agreement is deemed to have been approved by the legal guardian). If you do not agree to these Terms of Service and/or any changes made to them by OneMusic from time to time, you shall not use or voluntarily cancel the services provided by OneMusic. Otherwise, any logging, recording, payment, downloading, viewing, etc. of your use of the Application will be deemed to be your acceptance of the TOS in its entirety, including any modifications to the TOS that OneMusic may make from time to time.
 
@@ -8,7 +8,7 @@ If you choose to accept these terms and conditions by opening an account on the 
 
 ## I.	Declaration of Intellectual Property Rights
 
-1.1 The ownership and intellectual property rights of the Software are owned by Beijing OneNice Science and Technology Co. Ltd. (hereinafter referred to as the "Company" or " OneNice Technology"). The copyright, trademark, intellectual property rights and ownership of the information content (including but not limited to text, images, photographs, trademarks, logos, diagrams and data) provided by the Software are protected by the Copyright Law of the People's Republic of China, the Trademark Law of the People's Republic of China, the Patent Law of the People's Republic of China and other relevant laws, regulations and international treaties, and OneMusic shall enjoy the corresponding copyright, trademark, intellectual property rights and ownership rights in accordance with the law. copyright, trademark rights, intellectual property rights and ownership rights in accordance with the law.
+1.1 The ownership and intellectual property rights of the Software are owned by Chengdu Reinvent Technology Co., Ltd. (hereinafter referred to as the "Company" or " OneNice Technology"). The copyright, trademark, intellectual property rights and ownership of the information content (including but not limited to text, images, photographs, trademarks, logos, diagrams and data) provided by the Software are protected by the Copyright Law of the People's Republic of China, the Trademark Law of the People's Republic of China, the Patent Law of the People's Republic of China and other relevant laws, regulations and international treaties, and OneMusic shall enjoy the corresponding copyright, trademark, intellectual property rights and ownership rights in accordance with the law. copyright, trademark rights, intellectual property rights and ownership rights in accordance with the law.
 
 1.2 Without the written authorisation of the Company, the User shall not use, transfer or create derivative products related to the Software for any purpose, and the Company reserves the right to resort to legal action against the aforementioned unauthorised acts.
 
@@ -75,4 +75,4 @@ If you choose to accept these terms and conditions by opening an account on the 
 
 6.3 If any dispute or controversy arises between you and OneMusic, it shall be settled by friendly negotiation. If negotiation fails, you agree to submit the dispute or controversy to the jurisdiction of the competent people's court in the place where this Agreement is entered into.
 
-Beijing OneNice Science and Technology Co. Ltd.
+Chengdu Reinvent Technology Co., Ltd.

@@ -11,6 +11,9 @@
   - [小组件](cn/OneWidget/widget.md)
   - [启动器](cn/OneWidget/launcher.md)
   - [其他问题](cn/OneWidget/others.md)
+- OneCoin
+  - [隐私协议](cn/OneCoin/privacy.md)
+  - [用户协议](cn/OneCoin/terms.md)
 - OneDay
   - [隐私协议](cn/OneDay/privacy.md)
   - [用户协议](cn/OneDay/terms.md)
