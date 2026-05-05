@@ -42,6 +42,12 @@
 - OneGrow
   - [Privacy Policy](OneGrow/privacy.md)
   - [Terms of Use](OneGrow/terms.md)
+- OneMemory
+  - [Privacy Policy](OneMemory/privacy.md)
+  - [Terms of Use](OneMemory/terms.md)
+- OneCoin
+  - [Privacy Policy](OneCoin/privacy.md)
+  - [Terms of Use](OneCoin/terms.md)
 - OneWidget Air
   - [Hello, Transparent Widget](TransparentWidget/intro.md)
   - [Tutorial](TransparentWidget/tutorial.md)
